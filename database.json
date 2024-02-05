@@ -15,11 +15,18 @@
       "id": 2
     },
     {
+      "id": 3,
       "firstName": "John",
       "lastName": "Smith",
       "email": "johnsmith@johnmail.com",
-      "stateId": "4",
-      "id": 3
+      "stateId": "2"
+    },
+    {
+      "id": 4,
+      "firstName": "Lolas",
+      "lastName": "Wardwells",
+      "email": "lola@lomail.com",
+      "stateId": "5"
     }
   ],
   "states": [
@@ -48,139 +55,139 @@
     {
       "id": 1,
       "name": "Salt Lake City",
-      "description": "its great...1",
+      "description": "Salt Lake City, Utah, serves as an excellent base camp for hiking, surrounded by the stunning landscapes of the Wasatch Mountains. With numerous trailheads just a short drive from the city, hikers can explore a variety of routes, from serene alpine lakes to challenging peaks, making Salt Lake City an ideal destination for outdoor enthusiasts seeking diverse hiking experiences.",
       "stateId": 1
     },
     {
       "id": 2,
       "name": "Park City",
-      "description": "its great...2",
+      "description": "Park City, Utah, is a superb base camp for hiking enthusiasts, offering access to an extensive network of trails amid the picturesque Wasatch Mountains. With a range of options from scenic strolls to challenging alpine hikes, Park City provides a perfect blend of outdoor adventure and the charming atmosphere of a mountain town.",
       "stateId": 1
     },
     {
       "id": 3,
       "name": "Moab",
-      "description": "its great...3",
+      "description": "Moab, Utah, stands as an exceptional base camp for hiking, surrounded by the breathtaking red rock landscapes of Arches and Canyonlands National Parks. Hikers can explore a myriad of trails, from iconic arch formations to rugged canyons, making Moab an adventure-filled destination for those seeking diverse and stunning desert scenery.",
       "stateId": 1
     },
     {
       "id": 4,
       "name": "Escalante",
-      "description": "its great...4",
+      "description": "Escalante, Utah, serves as an idyllic base camp for hiking enthusiasts with its proximity to the Grand Staircase-Escalante National Monument. This remote and rugged landscape offers a network of pristine slot canyons, expansive plateaus, and meandering trails, providing hikers with a unique and challenging backcountry experience in one of the most scenic areas of the American Southwest.",
       "stateId": 1
     },
     {
       "id": 5,
       "name": "Hurricane",
-      "description": "its great...5",
+      "description": "Hurricane, Utah, provides an inviting base camp for hiking amid the captivating landscapes of the nearby Red Cliffs National Conservation Area and Zion National Park. With its convenient location, hikers can explore a variety of trails ranging from red rock canyons to scenic viewpoints, making Hurricane an ideal starting point for adventurers seeking diverse and breathtaking hiking experiences.",
       "stateId": 1
     },
     {
       "id": 6,
       "name": "Kanab",
-      "description": "its great...6",
+      "description": "Kanab, Utah, serves as an excellent base camp for hiking enthusiasts, offering access to a remarkable array of trails within the nearby Grand Staircase-Escalante National Monument, Vermilion Cliffs National Monument, and even the world-renowned Zion National Park. This charming town provides a gateway to diverse landscapes, from slot canyons and red rock formations to high plateaus, making it an ideal starting point for those seeking a varied and immersive hiking experience.",
       "stateId": 1
     },
     {
       "id": 7,
       "name": "Page",
-      "description": "its great...7",
+      "description": "Page, Arizona, is an ideal base camp for hiking, surrounded by the spectacular natural wonders of the region. With close proximity to iconic sites such as Horseshoe Bend, Antelope Canyon, and the scenic trails around Lake Powell, hikers can explore a captivating mix of desert landscapes, slot canyons, and stunning viewpoints, making Page an exciting destination for outdoor enthusiasts.",
       "stateId": 2
     },
     {
       "id": 8,
       "name": "Monument Valley",
-      "description": "its great...8",
+      "description": "Monument Valley, Arizona, offers a unique base camp for hiking, where the iconic red sandstone buttes and mesas create a breathtaking backdrop for outdoor adventures. While hiking opportunities within the valley itself are limited due to Navajo Tribal Park regulations, visitors can explore guided trails that provide cultural insights and unmatched views of this majestic landscape, creating an unforgettable experience for those seeking a blend of hiking and cultural exploration.",
       "stateId": 2
     },
     {
       "id": 9,
       "name": "Flagstaff",
-      "description": "its great...9",
+      "description": "Flagstaff, Arizona, serves as an excellent base camp for hiking, surrounded by the diverse landscapes of the Coconino National Forest and the iconic San Francisco Peaks. Hikers can explore a range of trails, from ponderosa pine forests to high-elevation mountain peaks, making Flagstaff an ideal destination for outdoor enthusiasts seeking a variety of hiking experiences in the cool mountain air of Northern Arizona.",
       "stateId": 2
     },
     {
       "id": 10,
       "name": "Sedona",
-      "description": "its great...10",
+      "description": "Sedona, Arizona, is a captivating base camp for hiking, set amidst the striking red rock formations and canyons of the Coconino National Forest. Hikers can explore a network of trails offering panoramic views, spiritual vortex sites, and encounters with unique geological formations, making Sedona an enchanting destination for those seeking both scenic beauty and a spiritual connection with the landscape.",
       "stateId": 2
     },
     {
       "id": 11,
       "name": "Phoenix",
-      "description": "its great...11",
+      "description": "Phoenix, Arizona, serves as a vibrant base camp for hiking, surrounded by the rugged beauty of the Sonoran Desert and nearby mountain ranges. Hikers can explore a variety of trails, ranging from desert landscapes with iconic saguaros to challenging mountain ascents in the McDowell Sonoran Preserve, making Phoenix an excellent hub for outdoor enthusiasts seeking diverse hiking experiences in the warmth of the Southwest.",
       "stateId": 2
     },
     {
       "id": 12,
       "name": "Tucson",
-      "description": "its great...12",
+      "description": "Tucson, Arizona, is an ideal base camp for hiking, nestled within the enchanting Sonoran Desert and surrounded by several mountain ranges, including the Santa Catalina Mountains. Hikers can enjoy a mix of desert trails showcasing unique flora and fauna, as well as challenging mountain paths with panoramic views, making Tucson a diverse and captivating destination for outdoor adventurers.",
       "stateId": 2
     },
     {
       "id": 13,
       "name": "Redding",
-      "description": "its great...13",
+      "description": "Redding, California, serves as an excellent base camp for hiking, surrounded by the natural beauty of Northern California. With its proximity to Whiskeytown National Recreation Area and Lassen Volcanic National Park, hikers can explore diverse trails that lead to waterfalls, mountain peaks, and volcanic landscapes, making Redding an ideal hub for outdoor enthusiasts.",
       "stateId": 3
     },
     {
       "id": 14,
       "name": "Eureka",
-      "description": "its great...14",
+      "description": "Eureka, California, provides a scenic base camp for hiking, nestled along the rugged Northern California coastline. Hikers can explore nearby trails such as the Humboldt Bay Trail or venture into the ancient redwood forests of Redwood National and State Parks, experiencing a blend of coastal beauty and towering forested landscapes from this charming coastal city.",
       "stateId": 3
     },
     {
       "id": 15,
       "name": "South Lake Utah",
-      "description": "its great...15",
+      "description": "South Lake Tahoe, California, serves as a captivating base camp for hiking, surrounded by the stunning Sierra Nevada mountains and the iconic Lake Tahoe. Hikers can explore a multitude of trails, from lakeside paths with panoramic views to challenging alpine routes, making it an ideal destination for those seeking a diverse range of hiking experiences in a breathtaking mountain setting.",
       "stateId": 3
     },
     {
       "id": 16,
       "name": "San Francisco",
-      "description": "its great...16",
+      "description": "San Francisco, California, offers a unique base camp for hiking enthusiasts, with its proximity to scenic coastal trails, parks, and iconic landmarks. From the rugged cliffs of Lands End to the trails of the Marin Headlands, hikers can enjoy a variety of experiences, all within reach of the vibrant cultural scene and urban charm of the city.",
       "stateId": 3
     },
     {
       "id": 17,
       "name": "Lee Vining",
-      "description": "its great...17",
+      "description": "Lee Vining, California, nestled near the eastern edge of Yosemite National Park, serves as a charming base camp for hiking amid stunning alpine landscapes. With easy access to the park's trails, including those leading to iconic landmarks like Tioga Pass and Mono Lake, outdoor enthusiasts can explore the High Sierra region and enjoy the breathtaking scenery of the surrounding wilderness.",
       "stateId": 3
     },
     {
       "id": 18,
       "name": "San Luis Obispo",
-      "description": "its great...18",
+      "description": "San Luis Obispo, California, offers a delightful base camp for hiking with its proximity to diverse natural wonders. Hikers can explore trails in the nearby Morro Bay State Park, offering coastal paths with panoramic views, or venture into the nearby Santa Lucia Mountains for more challenging hikes, combining outdoor adventures with the laid-back charm of this central coast town.",
       "stateId": 3
     },
     {
       "id": 19,
       "name": "Yucca Valley",
-      "description": "its great...19",
+      "description": "Yucca Valley, California, situated near Joshua Tree National Park, serves as a tranquil base camp for hiking enthusiasts looking to explore the unique desert landscapes of the Mojave and Colorado Deserts. Hikers can embark on trails within Joshua Tree National Park, discovering iconic rock formations, desert flora, and expansive vistas, making Yucca Valley an ideal starting point for those seeking a blend of natural beauty and outdoor adventure.",
       "stateId": 3
     },
     {
       "id": 20,
       "name": "San Diego",
-      "description": "its great...20",
+      "description": "San Diego, California, provides an enticing base camp for hiking, offering a diverse range of trails that showcase the region's coastal beauty and diverse ecosystems. From the scenic coastal paths in Torrey Pines State Natural Reserve to the rugged trails in the nearby mountains, hikers can enjoy a variety of landscapes while benefiting from the city's pleasant climate and vibrant culture.",
       "stateId": 3
     },
     {
       "id": 21,
       "name": "Winnemucca",
-      "description": "its great...21",
+      "description": "Winnemucca, Nevada, serves as a convenient base camp for hiking, surrounded by the diverse landscapes of the Great Basin region. Hikers can explore nearby trails in the Santa Rosa Range or venture further to the nearby Black Rock Desert, offering a mix of desert scenery and mountainous terrain for those seeking outdoor adventures in north-central Nevada.",
       "stateId": 4
     },
     {
       "id": 22,
       "name": "Reno",
-      "description": "its great...22",
+      "description": "Reno, Nevada, serves as a versatile base camp for hiking enthusiasts, providing access to a range of trails in the nearby Sierra Nevada mountains. With its proximity to Lake Tahoe, hikers can explore scenic routes that offer panoramic views, alpine lakes, and varying levels of difficulty, making Reno an ideal starting point for outdoor adventures in the High Sierra region.",
       "stateId": 4
     },
     {
       "id": 23,
       "name": "Las Vegas",
-      "description": "its great...23",
+      "description": "Las Vegas, Nevada, offers a unique base camp for hiking with its close proximity to the stunning landscapes of Red Rock Canyon National Conservation Area. Hikers can escape the excitement of the Strip to explore trails winding through vibrant red sandstone formations, providing a contrasting and refreshing outdoor experience just a short drive from the city.",
       "stateId": 4
     }
   ],
@@ -219,6 +226,27 @@
       "startDate": "2024-09-22",
       "endDate": "2024-09-29",
       "id": 5
+    },
+    {
+      "userId": 2,
+      "name": "Date - Test",
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-02",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "name": "Summer in the Desert",
+      "startDate": "2024-08-04",
+      "endDate": "2024-08-31",
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "name": "Lola's adventure",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-31",
+      "id": 8
     }
   ],
   "tripBaseCamps": [
@@ -284,6 +312,48 @@
       "startDate": "2024-04-07",
       "endDate": "2024-04-10",
       "id": 10
+    },
+    {
+      "tripId": 6,
+      "baseCampId": 12,
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-02",
+      "id": 11
+    },
+    {
+      "tripId": 7,
+      "baseCampId": 12,
+      "startDate": "2024-08-04",
+      "endDate": "2024-08-10",
+      "id": 12
+    },
+    {
+      "tripId": 7,
+      "baseCampId": 11,
+      "startDate": "2024-08-11",
+      "endDate": "2024-08-17",
+      "id": 13
+    },
+    {
+      "tripId": 8,
+      "baseCampId": 20,
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-05",
+      "id": 14
+    },
+    {
+      "tripId": 8,
+      "baseCampId": 19,
+      "startDate": "2024-08-06",
+      "endDate": "2024-08-09",
+      "id": 15
+    },
+    {
+      "tripId": 8,
+      "baseCampId": 22,
+      "startDate": "2024-08-25",
+      "endDate": "2024-08-31",
+      "id": 17
     }
   ]
 }
