@@ -27,6 +27,13 @@
       "lastName": "Wardwells",
       "email": "lola@lomail.com",
       "stateId": "5"
+    },
+    {
+      "id": 5,
+      "firstName": "Jay",
+      "lastName": "Smith",
+      "email": "jaysmith@jaymail.com",
+      "stateId": "3"
     }
   ],
   "states": [
@@ -191,6 +198,78 @@
       "stateId": 4
     }
   ],
+  "hikes": [
+    {
+      "id": 1,
+      "baseCampId": 1,
+      "name": "Lake Blanche Trail",
+      "description": "Enjoy this 7.0-mile out-and-back trail near Mounthaven, Utah. Generally considered a challenging route, it takes an average of 4 h 59 min to complete. This is a very popular area for backpacking, camping, and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are June through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Twin Peaks Wilderness"
+    },
+    {
+      "id": 2,
+      "baseCampId": 1,
+      "name": "Lower Falls via Bells Canyon Trail",
+      "description": "Get to know this 4.8-mile out-and-back trail near Sandy, Utah. Generally considered a moderately challenging route. This is a very popular area for hiking and running, so you'll likely encounter other people while exploring. The best times to visit this trail are May through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 3,
+      "baseCampId": 1,
+      "name": "Gloria Falls",
+      "description": "Experience this 2.2-mile out-and-back trail near Mounthaven, Utah. Generally considered a moderately challenging route. This is a very popular area for hiking and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 4,
+      "baseCampId": 1,
+      "name": "Red Pine Lake and Gloria Falls via White Pine and Red Pine Trail",
+      "description": "Discover this 7.7-mile out-and-back trail near Alta, Utah. Generally considered a challenging route, it takes an average of 4 h 31 min to complete. This is a very popular area for backpacking, camping, and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through November. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Lone Peak Wilderness"
+    },
+    {
+      "id": 5,
+      "baseCampId": 1,
+      "name": "Donut Falls Trail",
+      "description": "Explore this 1.5-mile out-and-back trail near Salt Lake City, Utah. Generally considered an easy route, it takes an average of 44 min to complete. This is a very popular area for hiking and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 6,
+      "baseCampId": 1,
+      "name": "Mount Olympus Trail",
+      "description": "Get to know this 6.9-mile out-and-back trail near Cottonwood Heights, Utah. Generally considered a challenging route. This is a very popular area for hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are March through October. Dogs are welcome and may be off-leash in some areas.",
+      "location": "Mount Olympus Wilderness"
+    },
+    {
+      "id": 7,
+      "baseCampId": 1,
+      "name": "Grandeur Peak East Trail",
+      "description": "Experience this 5.6-mile out-and-back trail near Salt Lake City, Utah. Generally considered a challenging route. This is a very popular area for hiking, snowshoeing, and running, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome and may be off-leash in some areas.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 8,
+      "baseCampId": 1,
+      "name": "Lake Mary Trail",
+      "description": "Check out this 2.3-mile out-and-back trail near Salt Lake City, Utah. Generally considered a moderately challenging route, it takes an average of 1 h 30 min to complete. This is a very popular area for fishing, hiking, and running, so you'll likely encounter other people while exploring. The best times to visit this trail are May through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 9,
+      "baseCampId": 1,
+      "name": "Cecret Lake via Upper Albion Meadows and Cecret Lake Trail",
+      "description": "Discover this 4.5-mile out-and-back trail near Mounthaven, Utah. Generally considered a moderately challenging route, it takes an average of 2 h 34 min to complete. This is a very popular area for hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are May through September. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 10,
+      "baseCampId": 1,
+      "name": "Bonneville Salt Flats",
+      "description": "The Bonneville Salt Flats are one of Earth's most unique landforms. The salt flats are about 12 miles long and 5 miles wide and are comprised mostly of sodium chloride, or table salt. Located 120 miles west of Salt Lake City in Tooele County, Utah, the salt flats are a 30,000 acre expanse of hard, white salt crust on the western edge of the Great Salt Lake Basin in Utah. Like the Great Salt Lake, the Salt Flats are a remnant of Lake Bonneville, which covered over one-third of Utah from 10,000 to 32,000 years ago.",
+      "location": "Tooele County"
+    }
+  ],
   "trips": [
     {
       "userId": 1,
@@ -247,6 +326,27 @@
       "startDate": "2024-08-01",
       "endDate": "2024-08-31",
       "id": 8
+    },
+    {
+      "id": 10,
+      "userId": 5,
+      "name": "Date test",
+      "startDate": "2024-02-01T06:00:00.000Z",
+      "endDate": "2024-02-24T06:00:00.000Z"
+    },
+    {
+      "userId": 5,
+      "name": "Ski",
+      "startDate": "2024-02-18T06:00:00.000Z",
+      "endDate": "2024-03-02T06:00:00.000Z",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "name": "Spring Trip",
+      "startDate": "2024-04-01T05:00:00.000Z",
+      "endDate": "2024-04-13T05:00:00.000Z",
+      "id": 12
     }
   ],
   "tripBaseCamps": [
@@ -354,6 +454,77 @@
       "startDate": "2024-08-25",
       "endDate": "2024-08-31",
       "id": 17
+    },
+    {
+      "tripId": 10,
+      "baseCampId": 1,
+      "startDate": "2024-02-10T06:00:00.000Z",
+      "endDate": "2024-02-12T06:00:00.000Z",
+      "id": 18
+    },
+    {
+      "id": 19,
+      "tripId": 10,
+      "baseCampId": 2,
+      "startDate": "2024-02-04T06:00:00.000Z",
+      "endDate": "2024-02-10T06:00:00.000Z"
+    },
+    {
+      "tripId": 11,
+      "baseCampId": 22,
+      "startDate": "2024-02-18T06:00:00.000Z",
+      "endDate": "2024-02-19T06:00:00.000Z",
+      "id": 20
+    },
+    {
+      "tripId": 11,
+      "baseCampId": 15,
+      "startDate": "2024-02-19T06:00:00.000Z",
+      "endDate": "2024-02-23T06:00:00.000Z",
+      "id": 21
+    },
+    {
+      "tripId": 11,
+      "baseCampId": 17,
+      "startDate": "2024-02-23T06:00:00.000Z",
+      "endDate": "2024-02-29T06:00:00.000Z",
+      "id": 22
+    },
+    {
+      "tripId": 12,
+      "baseCampId": 7,
+      "startDate": "2024-04-01T05:00:00.000Z",
+      "endDate": "2024-04-07T05:00:00.000Z",
+      "id": 24
+    },
+    {
+      "tripId": 12,
+      "baseCampId": 9,
+      "startDate": "2024-04-07T05:00:00.000Z",
+      "endDate": "2024-04-18T05:00:00.000Z",
+      "id": 25
+    }
+  ],
+  "tripHikes": [
+    {
+      "id": 1,
+      "tripBaseCampId": 18,
+      "hikeId": 2
+    },
+    {
+      "id": 2,
+      "tripBaseCampId": 18,
+      "hikeId": 4
+    },
+    {
+      "id": 3,
+      "tripBaseCampId": 18,
+      "hikeId": 7
+    },
+    {
+      "id": 4,
+      "tripBaseCampId": 18,
+      "hikeId": 10
     }
   ]
 }
