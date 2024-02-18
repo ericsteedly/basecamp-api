@@ -5,7 +5,7 @@
       "firstName": "Eric",
       "lastName": "Steedly",
       "email": "ericsteedly@gmail.com",
-      "stateId": 2
+      "stateId": "2"
     },
     {
       "firstName": "Jimmy",
@@ -34,28 +34,265 @@
       "lastName": "Smith",
       "email": "jaysmith@jaymail.com",
       "stateId": "3"
+    },
+    {
+      "firstName": "Jimmy",
+      "lastName": "Boofet",
+      "email": "jimmyb@parrotmail.com",
+      "stateId": "19",
+      "id": 6
     }
   ],
   "states": [
     {
       "id": 1,
-      "name": "Utah"
+      "name": "Utah",
+      "description": "Utah is renowned for its stunning and diverse landscapes, making it a paradise for hikers. Its diverse terrain offers everything from desert canyons to alpine meadows, providing a wide range of hiking experiences. Here are some towns that can serve as excellent base camp locations for hiking in Utah."
     },
     {
       "id": 2,
-      "name": "Arizona"
+      "name": "Arizona",
+      "description": "Arizona's diverse terrain offers everything from desert landscapes to alpine forests, providing a wide range of hiking experiences. Here are some ideal basecamp locations."
     },
     {
       "id": 3,
-      "name": "California"
+      "name": "California",
+      "description": "California, a hiker's paradise, offers diverse and breathtaking landscapes that cater to every level of hiking enthusiast. From the rugged coastline of the Pacific Ocean to the towering peaks of the Sierra Nevada Mountains, California boasts a wealth of trails and natural wonders."
     },
     {
       "id": 4,
-      "name": "Nevada"
+      "name": "Nevada",
+      "description": "Nevada's diverse landscapes provide ample opportunities for hiking, with the state featuring deserts, mountains, and unique geological formations. Here are some towns that can serve as base camp locations for hiking in Nevada."
     },
     {
       "id": 5,
-      "name": "New Mexico"
+      "name": "New Mexico",
+      "description": "New Mexico's diverse landscapes offer hiking opportunities in its deserts, mountains, and unique geological formations. Here are some towns that can serve as excellent base camp locations for hiking in New Mexico."
+    },
+    {
+      "id": 6,
+      "name": "Colorado",
+      "description": "Colorado is renowned for its stunning mountain landscapes and offers countless hiking opportunities. Choosing a base camp depends on the specific regions and parks you want to explore. Here are some towns that can serve as excellent base camp locations for hiking in Colorado."
+    },
+    {
+      "id": 7,
+      "name": "Oregon",
+      "description": "Oregon is known for its diverse landscapes, including the Cascade Range, Pacific coastline, and lush forests. Here are some towns that can serve as excellent base camp locations for hiking in Oregon."
+    },
+    {
+      "id": 8,
+      "name": "Washington",
+      "description": "Washington State is renowned for its diverse and stunning landscapes, offering a range of hiking opportunities from coastal trails to alpine peaks. Here are some towns that can serve as excellent base camp locations for hiking in Washington."
+    },
+    {
+      "id": 9,
+      "name": "Idaho",
+      "description": "Idaho is a state with diverse landscapes, including mountain ranges, forests, and expansive wilderness areas, making it a great destination for hiking enthusiasts. Here are some towns that can serve as excellent base camp locations for hiking in Idaho."
+    },
+    {
+      "id": 10,
+      "name": "Montana",
+      "description": "Montana is renowned for its stunning landscapes, including the Rocky Mountains, pristine lakes, and vast wilderness areas. Here are some towns that can serve as excellent base camp locations for hiking in Montana."
+    },
+    {
+      "id": 11,
+      "name": "Wyoming",
+      "description": "Wyoming is known for its stunning natural landscapes, including Yellowstone National Park, Grand Teton National Park, and vast wilderness areas. Here are some towns that can serve as excellent base camp locations for hiking in Wyoming."
+    },
+    {
+      "id": 12,
+      "name": "North Dakota",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name": "South Dakota",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "name": "Nebraska",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name": "Kansas",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "Oklahoma",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "name": "Texas",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "name": "Alaska",
+      "description": "Alaska offers some of the most breathtaking and challenging hiking experiences in the United States. Choosing a base camp depends on the specific regions and parks you want to explore. Here are some towns that can serve as excellent base camp locations for hiking in Alaska."
+    },
+    {
+      "id": 19,
+      "name": "Hawaii",
+      "description": "Hawaii's unique geography offers diverse hiking opportunities, from lush rainforests to volcanic landscapes. Here are some towns that can serve as excellent base camp locations for hiking in Hawaii."
+    },
+    {
+      "id": 20,
+      "name": "Minnesota",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "name": "Iowa",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "name": "Missouri",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "name": "Arkansas",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "name": "Louisiana",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "name": "Wisconsin",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "name": "Illinois",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "name": "Mississippi",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name": "Alabama",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "name": "Tennessee",
+      "description": "Tennessee offers diverse hiking opportunities, from the Great Smoky Mountains to the Cumberland Plateau and beyond. Here are some towns that can serve as excellent base camp locations for hiking in Tennessee."
+    },
+    {
+      "id": 30,
+      "name": "Kentucky",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "name": "Indiana",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "name": "Michigan",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "name": "Ohio",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "name": "Florida",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "name": "Georgia",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "name": "South Carolina",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "name": "North Carolina",
+      "description": "North Carolina boasts diverse landscapes, from the Appalachian Mountains to coastal plains, providing a wide range of hiking opportunities. Here are some towns that can serve as excellent base camp locations for hiking in North Carolina."
+    },
+    {
+      "id": 38,
+      "name": "Virginia",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "name": "West Virginia",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "name": "Maryland",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "name": "Delaware",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "name": "New Jersey",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "name": "Pennsylvania",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "name": "New York",
+      "description": "New York offers a diverse range of hiking opportunities, from the Adirondack Mountains to the Catskills and beyond. Here are some towns that can serve as excellent base camp locations for hiking in New York."
+    },
+    {
+      "id": 45,
+      "name": "Connecticut",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "name": "Rhode Island",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "name": "Massachusetts",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "name": "Vermont",
+      "description": ""
+    },
+    {
+      "id": 49,
+      "name": "New Hampshire",
+      "description": ""
+    },
+    {
+      "id": 50,
+      "name": "Maine",
+      "description": "Maine, known for its rugged coastline, dense forests, and mountainous terrain, is a fantastic destination for hiking. Here are some towns that can serve as excellent base camp locations for hiking in Maine."
     }
   ],
   "baseCamps": [
@@ -196,6 +433,678 @@
       "name": "Las Vegas",
       "description": "Las Vegas, Nevada, offers a unique base camp for hiking with its close proximity to the stunning landscapes of Red Rock Canyon National Conservation Area. Hikers can escape the excitement of the Strip to explore trails winding through vibrant red sandstone formations, providing a contrasting and refreshing outdoor experience just a short drive from the city.",
       "stateId": 4
+    },
+    {
+      "id": 24,
+      "name": "Ely",
+      "description": "Located in eastern Nevada, Ely is near Great Basin National Park, which features diverse hiking trails, including those leading to the summit of Wheeler Peak.",
+      "stateId": 4
+    },
+    {
+      "id": 25,
+      "name": "Anchorage",
+      "description": "As the largest city in Alaska, Anchorage serves as a central hub for exploring various nearby hiking destinations, such as Chugach State Park, Kincaid Park, and Flattop Mountain. It also offers amenities and services for outdoor enthusiasts.",
+      "stateId": 18
+    },
+    {
+      "id": 26,
+      "name": "Juneau",
+      "description": "The capital city is nestled in the southeast part of Alaska and provides access to the Tongass National Forest, with numerous trails and opportunities for wildlife viewing.",
+      "stateId": 18
+    },
+    {
+      "id": 27,
+      "name": "Fairbanks",
+      "description": "Located in the interior of Alaska, Fairbanks is a gateway to the Arctic wilderness and is near areas like the White Mountains National Recreation Area and the Chena River State Recreation Area.",
+      "stateId": 18
+    },
+    {
+      "id": 28,
+      "name": "Talkeenta",
+      "description": "This small town is often used as a base for those heading to Denali National Park. Talkeetna offers a charming atmosphere and scenic surroundings, making it a great place to start or end your hiking adventures.",
+      "stateId": 18
+    },
+    {
+      "id": 29,
+      "name": "Homer",
+      "description": "Situated on the Kenai Peninsula, Homer is a coastal town with access to the Kachemak Bay State Park, offering both coastal and mountainous hiking experiences.",
+      "stateId": 18
+    },
+    {
+      "id": 30,
+      "name": "Seward",
+      "description": "Located on the Kenai Peninsula, Seward provides access to the Kenai Fjords National Park and the Chugach National Forest, offering a mix of coastal and mountainous trails.",
+      "stateId": 18
+    },
+    {
+      "id": 31,
+      "name": "Sitka",
+      "description": "In the southeastern part of Alaska, Sitka is surrounded by Tongass National Forest and provides opportunities for coastal hikes with stunning scenery.",
+      "stateId": 18
+    },
+    {
+      "id": 32,
+      "name": "Healy",
+      "description": "Surrounded by the breathtaking wilderness of interior Alaska, Healy serves as an exceptional basecamp for hiking, offering access to an array of trails that lead to the stunning landscapes of Denali National Park and Preserve, where hikers can explore boreal forests, tundra expanses, and unparalleled views of North America's tallest peak, providing an unforgettable and rugged outdoor adventure.",
+      "stateId": 18
+    },
+    {
+      "id": 33,
+      "name": "Aspen",
+      "description": "Surrounded by the Elk Mountains, Aspen is a gateway to the Maroon Bells-Snowmass Wilderness Area and the White River National Forest, offering a variety of trails for all skill levels.",
+      "stateId": 6
+    },
+    {
+      "id": 34,
+      "name": "Boulder",
+      "description": "Nestled against the foothills of the Rocky Mountains, Boulder provides easy access to numerous trails in the Flatirons, Chautauqua Park, and Eldorado Canyon State Park.",
+      "stateId": 6
+    },
+    {
+      "id": 35,
+      "name": "Estes Park",
+      "description": "Located near the entrance of Rocky Mountain National Park, Estes Park is an ideal base for exploring the park's extensive trail system, including iconic routes like the Longs Peak Trail.",
+      "stateId": 6
+    },
+    {
+      "id": 36,
+      "name": "Durango",
+      "description": "Situated in the southwestern part of the state, Durango is close to the San Juan National Forest, offering a range of trails, including those in the Weminuche Wilderness and the Colorado Trail.",
+      "stateId": 6
+    },
+    {
+      "id": 37,
+      "name": "Glenwood Springs",
+      "description": "Nestled in the Roaring Fork Valley, Glenwood Springs is near the Hanging Lake Trail, as well as other trails in the White River National Forest and Flat Tops Wilderness.",
+      "stateId": 7
+    },
+    {
+      "id": 38,
+      "name": "Leadville",
+      "description": "Positioned at high elevation, Leadville is near numerous trails in the Sawatch Range, including those leading to Colorado's highest peaks, such as Mount Elbert and Mount Massive.",
+      "stateId": 6
+    },
+    {
+      "id": 39,
+      "name": "Telluride",
+      "description": "Surrounded by the San Juan Mountains, Telluride is a base for exploring the Bridal Veil Falls, the Via Ferrata, and trails in the Uncompahgre National Forest.",
+      "stateId": 6
+    },
+    {
+      "id": 40,
+      "name": "Salida",
+      "description": "Located in the Arkansas River Valley, Salida is close to the Browns Canyon National Monument, the Collegiate Peaks Wilderness, and the Arkansas Hills Trail System.",
+      "stateId": 6
+    },
+    {
+      "id": 41,
+      "name": "Ouray",
+      "description": "Known as the 'Switzerland of America', Ouray is surrounded by towering peaks and is a great base for exploring trails like the Perimeter Trail and the Ice Lakes Basin.",
+      "stateId": 6
+    },
+    {
+      "id": 42,
+      "name": "Fort Collins",
+      "description": "Situated near Horsetooth Mountain Open Space and the Cache la Poudre River, Fort Collins offers access to trails in the Roosevelt National Forest and Rocky Mountain National Park.",
+      "stateId": 6
+    },
+    {
+      "id": 43,
+      "name": "Hilo",
+      "description": "Located on the eastern side of the Big Island, Hilo is close to Hawaii Volcanoes National Park, which provides numerous hiking trails around active and dormant volcanoes, lava fields, and lush rainforests.",
+      "stateId": 19
+    },
+    {
+      "id": 44,
+      "name": "Kailua-Kona",
+      "description": "Positioned on the western side of the Big Island, Kailua-Kona is near the Pu'uhonua o Honaunau National Historical Park and offers access to coastal trails, lava tubes, and the Hualalai volcano.",
+      "stateId": 19
+    },
+    {
+      "id": 45,
+      "name": "Lahaina",
+      "description": "Situated on the west coast of Maui, Lahaina is a central location for exploring the Haleakalā National Park, known for its volcanic landscapes and the iconic Haleakalā Crater",
+      "stateId": 19
+    },
+    {
+      "id": 46,
+      "name": "Paia",
+      "description": "Located on Maui's north shore, Paia is close to the Road to Hana, offering access to lush rainforests, waterfalls, and trails like the Pipiwai Trail.",
+      "stateId": 19
+    },
+    {
+      "id": 47,
+      "name": "Honolulu",
+      "description": "As the capital of Hawaii, Honolulu is on the island of Oahu and provides access to various hiking trails, including those in Diamond Head State Monument, Waimea Valley, and the nearby Koko Head Crater.",
+      "stateId": 19
+    },
+    {
+      "id": 48,
+      "name": "Kaneohe",
+      "description": "Situated on the windward side of Oahu, Kaneohe is near the lush Ko'olau Mountain Range, offering trails like the Haiku Stairs (Stairway to Heaven), Likelike Trail, and Aiea Loop Trail.",
+      "stateId": 19
+    },
+    {
+      "id": 49,
+      "name": "Lihue",
+      "description": "Located on the island of Kauai, Lihue is central to attractions like Waimea Canyon and the Napali Coast, providing access to hiking trails like the Kalalau Trail and the Canyon Trail.",
+      "stateId": 19
+    },
+    {
+      "id": 50,
+      "name": "Princeville",
+      "description": "Positioned on Kauai's north shore, Princeville is near the scenic Na Pali Coast and provides access to trails like the Hanakapiai Falls Trail and the Kalalau Lookout Trail.",
+      "stateId": 19
+    },
+    {
+      "id": 51,
+      "name": "Boise",
+      "description": "As the capital and largest city of Idaho, Boise is located near the Boise National Forest and the nearby Boise Foothills, offering a variety of trails for hikers. It's also a gateway to the Sawtooth National Recreation Area.",
+      "stateId": 9
+    },
+    {
+      "id": 52,
+      "name": "Ketchum",
+      "description": "Nestled in the Wood River Valley, Ketchum and Sun Valley are surrounded by the Sawtooth National Recreation Area and the Sawtooth Mountains, providing access to numerous trails, including those around Bald Mountain.",
+      "stateId": 9
+    },
+    {
+      "id": 53,
+      "name": "McCall",
+      "description": "Located on the shores of Payette Lake, McCall is near Ponderosa State Park and the Payette National Forest. The area offers hiking trails with scenic views of the lake and surrounding mountains.",
+      "stateId": 9
+    },
+    {
+      "id": 54,
+      "name": "Idaho Falls",
+      "description": "Situated in eastern Idaho, Idaho Falls is close to the Targhee National Forest and Grand Teton National Park in neighboring Wyoming. It's a good base for exploring the Teton Range and the Caribou-Targhee National Forest.",
+      "stateId": 9
+    },
+    {
+      "id": 55,
+      "name": "Stanley",
+      "description": "Surrounded by the rugged Sawtooth Mountains, Stanley is a small town that serves as a gateway to the Sawtooth National Recreation Area. It offers access to alpine lakes, high mountain peaks, and scenic trails.",
+      "stateId": 9
+    },
+    {
+      "id": 56,
+      "name": "Salmon",
+      "description": "Located near the Frank Church-River of No Return Wilderness, Salmon is a base for exploring the vast wilderness areas and trails in central Idaho.",
+      "stateId": 9
+    },
+    {
+      "id": 57,
+      "name": "Bonners Ferry",
+      "description": "Situated along the Kootenai River near the Canadian border, Bonners Ferry, Idaho, serves as an excellent basecamp for hiking with its close proximity to the Selkirk Mountains. The town offers access to an extensive network of trails, including the renowned Myrtle Falls and the Kootenai National Wildlife Refuge trails, providing hikers with diverse landscapes, from dense woodlands to scenic riverbanks, making it an ideal hub for exploring the natural beauty of the Pacific Northwest.",
+      "stateId": 9
+    },
+    {
+      "id": 58,
+      "name": "Coeur d'Alene",
+      "description": "Situated in northern Idaho, Coeur d'Alene is near the Coeur d'Alene National Forest and offers hiking opportunities around Tubbs Hill and Mineral Ridge.",
+      "stateId": 9
+    },
+    {
+      "id": 59,
+      "name": "Bar Harbor",
+      "description": "Located near Acadia National Park on Mount Desert Island, Bar Harbor is a popular base for exploring iconic trails like the Precipice Trail, Jordan Pond Path, and Cadillac Mountain.",
+      "stateId": 50
+    },
+    {
+      "id": 60,
+      "name": "Millinocket",
+      "description": "Gateway to Baxter State Park, Millinocket provides access to the challenging Katahdin, the highest peak in Maine and the endpoint of the Appalachian Trail.",
+      "stateId": 50
+    },
+    {
+      "id": 61,
+      "name": "Bethel",
+      "description": "Nestled in western Maine, Bethel is near Grafton Notch State Park and the Appalachian Trail. It offers access to trails like Table Rock and Old Speck Mountain",
+      "stateId": 50
+    },
+    {
+      "id": 62,
+      "name": "Rangeley",
+      "description": " Situated in the western mountains, Rangeley is near the Rangeley Lakes Trails Center and offers access to trails around Saddleback Mountain and the Appalachian Trail.",
+      "stateId": 50
+    },
+    {
+      "id": 63,
+      "name": "Camden",
+      "description": " Located along the coast, Camden provides access to Camden Hills State Park, where hikers can explore trails leading to panoramic views of Penobscot Bay and the surrounding islands.",
+      "stateId": 50
+    },
+    {
+      "id": 64,
+      "name": "Greenville",
+      "description": "Positioned on the shores of Moosehead Lake, Greenville is near the Moosehead Pinnacle Pursuit, offering hiking opportunities with stunning views of the lake and surrounding mountains.",
+      "stateId": 50
+    },
+    {
+      "id": 65,
+      "name": "Portland:",
+      "description": "As Maine's largest city, Portland is near the Fore River Sanctuary and offers access to nearby trails like the Eastern Promenade Trail and Mackworth Island trails.",
+      "stateId": 50
+    },
+    {
+      "id": 66,
+      "name": "Bozeman",
+      "description": "Located in southwestern Montana, Bozeman is near the Gallatin National Forest and offers access to trails in the Bridger Range, Spanish Peaks, and Hyalite Canyon.",
+      "stateId": 10
+    },
+    {
+      "id": 67,
+      "name": "Whitefish",
+      "description": "In the northwestern part of the state, Whitefish is near Glacier National Park, providing a vast network of hiking trails amid towering peaks, glaciers, and alpine lakes.",
+      "stateId": 10
+    },
+    {
+      "id": 68,
+      "name": "Missoula",
+      "description": "Nestled in western Montana, Missoula is near the Rattlesnake National Recreation Area, Lolo National Forest, and the Bitterroot Valley, offering diverse hiking opportunities.",
+      "stateId": 10
+    },
+    {
+      "id": 69,
+      "name": "Kalispell",
+      "description": "Near Whitefish and Glacier National Park, Kalispell provides access to the Swan Range and Jewel Basin, known for its pristine alpine lakes and panoramic views",
+      "stateId": 50
+    },
+    {
+      "id": 70,
+      "name": "Helena",
+      "description": "The state capital, Helena, is surrounded by the Helena National Forest and offers trails such as the Mount Helena City Park trails and the Gates of the Mountains.",
+      "stateId": 50
+    },
+    {
+      "id": 71,
+      "name": "Red Lodge",
+      "description": " Located near the Beartooth Mountains, Red Lodge is a gateway to the Beartooth Highway and the Absaroka-Beartooth Wilderness, providing access to high-altitude hiking.",
+      "stateId": 50
+    },
+    {
+      "id": 72,
+      "name": "Livingston",
+      "description": "Along the Yellowstone River, Livingston is near the Absaroka Range and the Paradise Valley, offering hiking opportunities with scenic views.",
+      "stateId": 50
+    },
+    {
+      "id": 73,
+      "name": "Dillon",
+      "description": "In the southwestern part of the state, Dillon is near the Beaverhead-Deerlodge National Forest and the Pioneer Mountains, providing trails in a less crowded setting.",
+      "stateId": 50
+    },
+    {
+      "id": 74,
+      "name": "Ennis",
+      "description": "Nestled in the heart of southwestern Montana, Ennis stands as a captivating basecamp for hiking enthusiasts, offering access to an array of rugged trails that wind through the stunning Madison Range. With its proximity to iconic destinations like Yellowstone National Park and the Lee Metcalf Wilderness, Ennis provides hikers with a gateway to diverse landscapes, from alpine meadows to pristine lakes, promising an immersive and memorable hiking experience in the picturesque Rocky Mountain surroundings.",
+      "stateId": 50
+    },
+    {
+      "id": 75,
+      "name": "Malta",
+      "description": "Nestled amidst the vast landscapes of northeastern Montana, Malta stands as an inviting basecamp for hiking enthusiasts, providing access to the pristine Milk River Valley and the nearby Bear Paw Mountains, where hikers can traverse a variety of trails amidst rolling prairies, enjoy panoramic views, and experience the unique beauty of the region, making it an ideal starting point for outdoor exploration.",
+      "stateId": 50
+    },
+    {
+      "id": 76,
+      "name": "West Yellowstone",
+      "description": "Situated on the doorstep of Yellowstone National Park, West Yellowstone, Montana, serves as an unparalleled basecamp for hiking, offering immediate access to iconic trails like the Fairy Falls and the Continental Divide, where hikers can immerse themselves in the extraordinary geothermal features, dense forests, and diverse wildlife of the world's first national park, ensuring a captivating and adventurous hiking experience.",
+      "stateId": 50
+    },
+    {
+      "id": 77,
+      "name": "Santa Fe",
+      "description": "The state capital, Santa Fe, is surrounded by the Sangre de Cristo Mountains. It provides access to trails in the Santa Fe National Forest, including the popular Aspen Vista Trail and hikes in the Bandelier National Monument.",
+      "stateId": 5
+    },
+    {
+      "id": 78,
+      "name": "Albuquerque",
+      "description": "The largest city in New Mexico, Albuquerque, is near the Sandia Mountains. Hiking options include the Sandia Crest Trail and the La Luz Trail, which offer stunning views of the Rio Grande Valley.",
+      "stateId": 5
+    },
+    {
+      "id": 79,
+      "name": "Taos",
+      "description": "Nestled in the northern part of the state, Taos is near the Carson National Forest and offers access to trails such as the Williams Lake Trail and the Wheeler Peak Trail, the highest point in New Mexico.",
+      "stateId": 5
+    },
+    {
+      "id": 80,
+      "name": "Los Alamos",
+      "description": "Located in the Jemez Mountains, Los Alamos is near Bandelier National Monument and the Valles Caldera National Preserve, providing unique geological features and hiking opportunities.",
+      "stateId": 5
+    },
+    {
+      "id": 81,
+      "name": "Las Cruces",
+      "description": "In the southern part of New Mexico, Las Cruces is near the Organ Mountains and offers trails like the Dripping Springs Trail and the Soledad Canyon Trail.",
+      "stateId": 5
+    },
+    {
+      "id": 82,
+      "name": "Silver City",
+      "description": "In southwestern New Mexico, Silver City is near the Gila National Forest and the Gila Wilderness, providing diverse hiking options, including the Catwalk National Recreation Trail.",
+      "stateId": 5
+    },
+    {
+      "id": 83,
+      "name": "Ruidoso",
+      "description": "Situated in the Sacramento Mountains, Ruidoso is near the Lincoln National Forest, offering trails like the Rim Trail and the Three Rivers Petroglyph Site.",
+      "stateId": 5
+    },
+    {
+      "id": 84,
+      "name": "Lake Placid",
+      "description": "In the Adirondacks, Lake Placid is a hub for hiking with access to trails like the High Peaks, Mount Marcy, and the Jackrabbit Trail. It's also a gateway to the Adirondack Park.",
+      "stateId": 44
+    },
+    {
+      "id": 85,
+      "name": "Keene Valley",
+      "description": "Another Adirondack gem, Keene Valley provides access to the High Peaks region, including trails like the Giant Mountain and Roaring Brook Falls.",
+      "stateId": 44
+    },
+    {
+      "id": 86,
+      "name": "North Creek",
+      "description": " Located near the Adirondack Park, North Creek is near the Siamese Ponds Wilderness and provides access to trails like the Hudson River Gorge and Gore Mountain.",
+      "stateId": 44
+    },
+    {
+      "id": 87,
+      "name": "New Paltz",
+      "description": "In the Shawangunk Mountains, New Paltz is near the Mohonk Preserve and Minnewaska State Park Preserve, offering trails with panoramic views and unique rock formations.",
+      "stateId": 44
+    },
+    {
+      "id": 88,
+      "name": "Woodstock",
+      "description": "Nestled in the Catskills, Woodstock is near Slide Mountain and the Devil's Path, known for challenging hikes and stunning vistas.",
+      "stateId": 44
+    },
+    {
+      "id": 89,
+      "name": "Ithaca",
+      "description": "In the Finger Lakes region, Ithaca is near Robert H. Treman State Park and Buttermilk Falls State Park, offering trails through gorges and waterfalls.",
+      "stateId": 44
+    },
+    {
+      "id": 90,
+      "name": "Lake George",
+      "description": "Situated in the Adirondacks, Lake George is near the Tongue Mountain Range and the Cat and Thomas Mountains Preserve, providing diverse hiking experiences.",
+      "stateId": 44
+    },
+    {
+      "id": 91,
+      "name": "Asheville",
+      "description": "Located in the western part of the state, Asheville is near the Blue Ridge Mountains and provides access to iconic trails along the Blue Ridge Parkway, including Craggy Gardens and Mount Pisgah.",
+      "stateId": 37
+    },
+    {
+      "id": 92,
+      "name": "Boone",
+      "description": "In the High Country, Boone is near Grandfather Mountain, Linville Gorge, and the Appalachian Trail, offering challenging hikes and stunning vistas.",
+      "stateId": 37
+    },
+    {
+      "id": 93,
+      "name": "Brevard",
+      "description": "Situated near Pisgah National Forest and DuPont State Forest, Brevard is a gateway to popular trails like Looking Glass Rock and Triple Falls.",
+      "stateId": 37
+    },
+    {
+      "id": 94,
+      "name": "Cherokee",
+      "description": "Close to Great Smoky Mountains National Park, Cherokee provides access to the Appalachian Trail and scenic trails like the Clingmans Dome and Alum Cave Bluffs.",
+      "stateId": 37
+    },
+    {
+      "id": 95,
+      "name": "Hendersonville",
+      "description": "In the Blue Ridge Mountains, Hendersonville is near Dupont State Forest and offers trails like Hooker Falls and Triple Falls.",
+      "stateId": 37
+    },
+    {
+      "id": 96,
+      "name": "Boiling Springs",
+      "description": "In the southwestern part of the state, Boiling Springs is near South Mountains State Park, featuring waterfalls and a variety of hiking trails.",
+      "stateId": 37
+    },
+    {
+      "id": 97,
+      "name": "Raleigh",
+      "description": "In the central part of the state, the Raleigh-Durham area is near Umstead State Park and Eno River State Park, providing local hiking options.",
+      "stateId": 37
+    },
+    {
+      "id": 98,
+      "name": "Wilmington",
+      "description": "On the coast, Wilmington is near Carolina Beach State Park and the Masonboro Island Reserve, offering coastal hiking opportunities.",
+      "stateId": 37
+    },
+    {
+      "id": 99,
+      "name": "Blowing Rock",
+      "description": "In the Blue Ridge Mountains, Blowing Rock is near Moses H. Cone Memorial Park and the Tanawha Trail, offering panoramic views and diverse trails.",
+      "stateId": 37
+    },
+    {
+      "id": 100,
+      "name": "Portland",
+      "description": "Oregon's largest city, Portland, is near Forest Park, offering an extensive network of trails within the city. Additionally, it provides access to the Columbia River Gorge and Mount Hood.",
+      "stateId": 7
+    },
+    {
+      "id": 101,
+      "name": "Bend",
+      "description": "In central Oregon, Bend is near the Deschutes National Forest and offers access to iconic trails like the Deschutes River Trail, Tumalo Falls, and the Cascade Lakes.",
+      "stateId": 7
+    },
+    {
+      "id": 102,
+      "name": "Eugene",
+      "description": "In the Willamette Valley, Eugene is near the Spencer Butte Trail and the McKenzie River Trail, providing diverse hiking options.",
+      "stateId": 7
+    },
+    {
+      "id": 103,
+      "name": "Ashland",
+      "description": "In the southern part of the state, Ashland is near Lithia Park and the Pacific Crest Trail, offering access to the Cascade-Siskiyou National Monument.",
+      "stateId": 7
+    },
+    {
+      "id": 104,
+      "name": "Hood River",
+      "description": "Located along the Columbia River Gorge, Hood River is near the Pacific Crest Trail and provides access to trails with views of Mount Hood and waterfalls.",
+      "stateId": 7
+    },
+    {
+      "id": 105,
+      "name": "Astoria",
+      "description": "Along the northern coast, Astoria is near the Fort Stevens State Park and Ecola State Park, providing coastal hiking experiences.",
+      "stateId": 7
+    },
+    {
+      "id": 106,
+      "name": "Joseph",
+      "description": "In northeastern Oregon, Joseph is near the Wallowa Mountains and the Eagle Cap Wilderness, offering alpine hiking and stunning vistas.",
+      "stateId": 7
+    },
+    {
+      "id": 107,
+      "name": "Klamath Falls",
+      "description": "Nestled in the enchanting landscapes of southern Oregon, Klamath Falls serves as an excellent basecamp for hiking adventures, providing access to an array of trails that wind through the Cascade Range and surrounding areas, offering hikers diverse terrain, from volcanic landscapes to lush forests, and ensuring a rewarding exploration of the region's natural beauty.",
+      "stateId": 7
+    },
+    {
+      "id": 108,
+      "name": "Burns",
+      "description": "Nestled in the rugged high desert of eastern Oregon, Burns serves as an ideal basecamp for hiking enthusiasts, providing access to a captivating tapestry of trails that traverse the scenic landscapes of the Malheur National Forest and the Steens Mountain Wilderness, offering hikers a unique blend of expansive vistas, high plateaus, and diverse ecosystems for an immersive and adventurous hiking experience.",
+      "stateId": 7
+    },
+    {
+      "id": 109,
+      "name": "John Day",
+      "description": "Situated in the heart of Oregon's scenic wonders, John Day serves as a captivating basecamp for hiking, offering access to an extensive network of trails that meander through the breathtaking landscapes of the John Day Fossil Beds National Monument and nearby mountains, providing hikers with a unique blend of geological wonders and high-desert beauty for an unforgettable outdoor exploration experience.",
+      "stateId": 7
+    },
+    {
+      "id": 110,
+      "name": "Gatlinburg",
+      "description": "Near the entrance to the Great Smoky Mountains National Park, Gatlinburg provides access to iconic trails like the Alum Cave Trail, Clingmans Dome, and Laurel Falls.",
+      "stateId": 29
+    },
+    {
+      "id": 111,
+      "name": "Chattanooga",
+      "description": "In southeastern Tennessee, Chattanooga is near Lookout Mountain and offers trails like the Lookout Mountain Trail and Sunset Rock.",
+      "stateId": 29
+    },
+    {
+      "id": 112,
+      "name": "Knoxville",
+      "description": " Located in the eastern part of the state, Knoxville is near the Appalachian Trail, the Great Smoky Mountains, and the Big South Fork National River and Recreation Area.",
+      "stateId": 29
+    },
+    {
+      "id": 113,
+      "name": "Nashville",
+      "description": "The state capital, Nashville, is near the Percy Warner Park and Radnor Lake State Park, providing local hiking options within a short drive of the city.",
+      "stateId": 29
+    },
+    {
+      "id": 114,
+      "name": "Cookeville",
+      "description": " In the Upper Cumberland region, Cookeville is near Cummins Falls State Park and the Burgess Falls State Park, providing waterfall hikes.",
+      "stateId": 29
+    },
+    {
+      "id": 115,
+      "name": "Johnson City",
+      "description": "Located in the Appalachian Highlands, Johnson City is near Buffalo Mountain Park and offers trails with panoramic views of the surrounding mountains.",
+      "stateId": 29
+    },
+    {
+      "id": 116,
+      "name": "Memphis",
+      "description": "In southwestern Tennessee, Memphis is near the Meeman-Shelby Forest State Park and T.O. Fuller State Park, offering local hiking options along the Mississippi River.",
+      "stateId": 29
+    },
+    {
+      "id": 117,
+      "name": "Colville",
+      "description": "Nestled in the serene landscapes of northeastern Washington, Colville stands as a charming basecamp for hiking enthusiasts, providing access to a diverse array of trails within the Colville National Forest and surrounding areas, where hikers can explore lush forests, picturesque lakes, and rolling hills, ensuring a tranquil and rewarding outdoor experience.",
+      "stateId": 8
+    },
+    {
+      "id": 118,
+      "name": "Spokane",
+      "description": "Perched along the banks of the Spokane River, Spokane, Washington, offers an enticing basecamp for hiking with its proximity to a variety of scenic trails, including those in Riverside State Park and Mount Spokane State Park, where hikers can traverse diverse terrain, from wooded paths to panoramic mountain vistas, providing an ideal launching point for outdoor enthusiasts seeking both urban comforts and adventurous exploration.",
+      "stateId": 8
+    },
+    {
+      "id": 119,
+      "name": "Seattle",
+      "description": "As the largest city, Seattle is a gateway to many hiking destinations. It's near Mount Si, the Snoqualmie Pass area, and offers access to trails in the nearby Cascade Range.",
+      "stateId": 8
+    },
+    {
+      "id": 120,
+      "name": "Leavenworth",
+      "description": "Nestled in the Cascades, Leavenworth is near trails like the Enchantment Lakes and Icicle Ridge, providing alpine hiking experiences.",
+      "stateId": 8
+    },
+    {
+      "id": 121,
+      "name": "Bellingham",
+      "description": "Located in the northwest, Bellingham is near Chuckanut Drive and the Chuckanut Mountains, offering coastal and forested trails.",
+      "stateId": 8
+    },
+    {
+      "id": 122,
+      "name": "Tacoma",
+      "description": "In the Puget Sound region, Tacoma is near Point Defiance Park and Mount Rainier National Park, providing both urban and alpine hiking opportunities.",
+      "stateId": 8
+    },
+    {
+      "id": 123,
+      "name": "Olympia",
+      "description": "The state capital, Olympia, is near the Capitol State Forest and offers access to the Nisqually National Wildlife Refuge for diverse hiking experiences.",
+      "stateId": 8
+    },
+    {
+      "id": 124,
+      "name": "Ellensburg",
+      "description": "In central Washington, Ellensburg is near the Umtanum Creek Recreation Area and the Iron Horse State Park Trail, providing trails through canyons and along rivers.",
+      "stateId": 8
+    },
+    {
+      "id": 125,
+      "name": "Port Angeles",
+      "description": "On the Olympic Peninsula, Port Angeles is near Hurricane Ridge, Sol Duc Falls, and offers access to Olympic National Park's diverse trails.",
+      "stateId": 8
+    },
+    {
+      "id": 126,
+      "name": "Wenatchee",
+      "description": "In central Washington, Wenatchee is near the Sage Hills Trail and the Wenatchee National Forest, offering trails with views of the Columbia River.",
+      "stateId": 8
+    },
+    {
+      "id": 127,
+      "name": "Jackson",
+      "description": "Located near Grand Teton National Park and Yellowstone National Park, Jackson is a popular base for accessing trails like Cascade Canyon, Lake Solitude, and the Teton Crest Trail.",
+      "stateId": 11
+    },
+    {
+      "id": 128,
+      "name": "Cody",
+      "description": "In northwestern Wyoming, Cody is near the Absaroka Range and provides access to trails in the Shoshone National Forest, including the Buffalo Bill Reservoir Trail.",
+      "stateId": 11
+    },
+    {
+      "id": 129,
+      "name": "Lander",
+      "description": "Situated in central Wyoming, Lander is near the Wind River Range and provides access to trails like the Popo Agie Falls Trail and the Cirque of the Towers.",
+      "stateId": 11
+    },
+    {
+      "id": 130,
+      "name": "Dubois",
+      "description": "In the Absaroka Mountains, Dubois is near the Wind River Range and offers access to trails like the Seneca Lake Trail and the Whiskey Mountain Trail.",
+      "stateId": 11
+    },
+    {
+      "id": 131,
+      "name": "Pinedale",
+      "description": "In western Wyoming, Pinedale is near the Wind River Range and provides access to trails like the Fremont Trail and the Titcomb Basin.",
+      "stateId": 11
+    },
+    {
+      "id": 132,
+      "name": "Buffalo",
+      "description": "In north-central Wyoming, Buffalo is near the Bighorn Mountains and offers access to trails like the Cloud Peak Summit Trail and the Crazy Woman Canyon Trail.",
+      "stateId": 11
+    },
+    {
+      "id": 133,
+      "name": "Sheridan",
+      "description": "In northeastern Wyoming, Sheridan is near the Bighorn Mountains and provides access to the Bighorn National Forest and Tongue River Canyon.",
+      "stateId": 11
+    },
+    {
+      "id": 134,
+      "name": "Casper",
+      "description": "Located in central Wyoming, Casper is near the Casper Mountain Trail and offers access to trails in the Medicine Bow National Forest.",
+      "stateId": 11
+    },
+    {
+      "id": 135,
+      "name": "Sundance",
+      "description": "Nestled in the picturesque Black Hills of Wyoming, Sundance serves as a charming basecamp for hiking, offering access to a network of trails such as those in the nearby Bearlodge Mountains, where hikers can revel in the beauty of pine-covered slopes, serene meadows, and captivating vistas, providing an ideal starting point for outdoor enthusiasts seeking an immersive and tranquil hiking experience.",
+      "stateId": 11
     }
   ],
   "hikes": [
@@ -272,18 +1181,11 @@
   ],
   "trips": [
     {
+      "id": 1,
       "userId": 1,
-      "name": "Data-Starter",
-      "startDate": "2024-01-31",
-      "endDate": "2024-02-10",
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "name": "First Trip Test",
-      "startDate": "2024-01-01",
-      "endDate": "2024-02-01",
-      "id": 2
+      "name": "Data-Trip",
+      "startDate": "2024-01-28T06:00:00.000Z",
+      "endDate": "2024-02-24T06:00:00.000Z"
     },
     {
       "userId": 2,
@@ -358,32 +1260,11 @@
       "id": 1
     },
     {
-      "tripId": 2,
-      "baseCampId": 1,
-      "startDate": "2024-01-31",
-      "endDate": "2024-02-05",
-      "id": 2
-    },
-    {
-      "tripId": 2,
-      "baseCampId": 2,
-      "startDate": "2024-02-05",
-      "endDate": "2024-02-10",
-      "id": 3
-    },
-    {
+      "id": 4,
       "tripId": 1,
       "baseCampId": 12,
-      "startDate": "2024-03-02",
-      "endDate": "2024-03-10",
-      "id": 4
-    },
-    {
-      "tripId": 2,
-      "baseCampId": 18,
-      "startDate": "2024-05-04",
-      "endDate": "2024-05-18",
-      "id": 6
+      "startDate": "2024-02-04T06:00:00.000Z",
+      "endDate": "2024-02-06T06:00:00.000Z"
     },
     {
       "tripId": 5,
@@ -456,13 +1337,6 @@
       "id": 17
     },
     {
-      "tripId": 10,
-      "baseCampId": 1,
-      "startDate": "2024-02-10T06:00:00.000Z",
-      "endDate": "2024-02-12T06:00:00.000Z",
-      "id": 18
-    },
-    {
       "id": 19,
       "tripId": 10,
       "baseCampId": 2,
@@ -503,28 +1377,35 @@
       "startDate": "2024-04-07T05:00:00.000Z",
       "endDate": "2024-04-18T05:00:00.000Z",
       "id": 25
+    },
+    {
+      "tripId": 1,
+      "baseCampId": 7,
+      "startDate": "2024-02-10T06:00:00.000Z",
+      "endDate": "2024-02-12T06:00:00.000Z",
+      "id": 26
     }
   ],
   "tripHikes": [
     {
-      "id": 1,
-      "tripBaseCampId": 18,
-      "hikeId": 2
+      "tripBaseCampId": 1,
+      "hikeId": 6,
+      "id": 1
     },
     {
-      "id": 2,
-      "tripBaseCampId": 18,
-      "hikeId": 4
+      "tripBaseCampId": 1,
+      "hikeId": 5,
+      "id": 2
     },
     {
-      "id": 3,
-      "tripBaseCampId": 18,
-      "hikeId": 7
+      "tripBaseCampId": 1,
+      "hikeId": 4,
+      "id": 3
     },
     {
-      "id": 4,
-      "tripBaseCampId": 18,
-      "hikeId": 10
+      "tripBaseCampId": 1,
+      "hikeId": 3,
+      "id": 4
     }
   ]
 }
