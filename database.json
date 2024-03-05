@@ -682,7 +682,7 @@
     },
     {
       "id": 65,
-      "name": "Portland:",
+      "name": "Portland",
       "description": "As Maine's largest city, Portland is near the Fore River Sanctuary and offers access to nearby trails like the Eastern Promenade Trail and Mackworth Island trails.",
       "stateId": 50
     },
@@ -1177,16 +1177,870 @@
       "name": "Bonneville Salt Flats",
       "description": "The Bonneville Salt Flats are one of Earth's most unique landforms. The salt flats are about 12 miles long and 5 miles wide and are comprised mostly of sodium chloride, or table salt. Located 120 miles west of Salt Lake City in Tooele County, Utah, the salt flats are a 30,000 acre expanse of hard, white salt crust on the western edge of the Great Salt Lake Basin in Utah. Like the Great Salt Lake, the Salt Flats are a remnant of Lake Bonneville, which covered over one-third of Utah from 10,000 to 32,000 years ago.",
       "location": "Tooele County"
+    },
+    {
+      "id": 11,
+      "baseCampId": 2,
+      "name": "Lofty Lake Loop Trail",
+      "description": "Discover this 4.5-mile loop trail near Kamas, Utah. Generally considered a moderately challenging route, it takes an average of 2 h 17 min to complete. This is a very popular area for fishing, hiking, and running, so you'll likely encounter other people while exploring. The best times to visit this trail are June through September. Dogs are welcome, but must be on a leash.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 12,
+      "baseCampId": 2,
+      "name": "Clyde Lake Loop",
+      "description": "Experience this 5.4-mile loop trail near Kamas, Utah. Generally considered a moderately challenging route, it takes an average of 2 h 6 min to complete. This is a very popular area for backpacking, camping, and fishing, so you'll likely encounter other people while exploring. The best times to visit this trail are June through October. Dogs are welcome and may be off-leash in some areas.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 13,
+      "baseCampId": 2,
+      "name": "Bald Mountain Trail",
+      "description": "Try this 2.7-mile out-and-back trail near Kamas, Utah. Generally considered a moderately challenging route, it takes an average of 2 h 2 min to complete. This is a very popular area for hiking, skiing, and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through September. Dogs are welcome and may be off-leash in some areas.",
+      "location": "Uinta-Wasatch-Cache National Forest"
+    },
+    {
+      "id": 14,
+      "baseCampId": 2,
+      "name": "Grandaddy Lake via Rocky Sea Pass Trail",
+      "description": "Enjoy this 7.2-mile out-and-back trail near Hanna, Utah. Generally considered a moderately challenging route, it takes an average of 3 h 25 min to complete. This is a very popular area for backpacking, camping, and fishing, so you'll likely encounter other people while exploring. The best times to visit this trail are July through September. Dogs are welcome and may be off-leash in some areas.",
+      "location": "High Uintas Wilderness"
+    },
+    {
+      "id": 15,
+      "baseCampId": 3,
+      "name": "Delicate Arch Trail",
+      "description": "Delicate Arch Trail is a short hike in Arches National Park to Utah's most recognizable natural arch, which you will likely recognize from the Utah license plate. The park is home to some of the most unique geologic features in the world. This fantastic hiking trail leads along the red rock slabs to the largest free standing arch in the park. You’ll pass smaller stone arches, piles of balanced rocks, and tall sandstone fins on your way to this incredible rocky feature.",
+      "location": "Arches National Park"
+    },
+    {
+      "id": 16,
+      "baseCampId": 3,
+      "name": "Corona and Bowtie Arch via Corona Arch Trail",
+      "description": "Hiking to Corona Arch should be near the top of the list for anyone visiting the Moab area. Outside of Arches National Park, Corona and Bowtie Arch are some of the most accessible and prominent arches to be found. The trail begins near the Gold Bar camping area along Potash Road, nestled tightly to the banks of the Colorado River.",
+      "location": "Bureau of Land Management: Moab Field Office"
+    },
+    {
+      "id": 17,
+      "baseCampId": 3,
+      "name": "Grand View Point Trail",
+      "description": "Breathtaking sunset hike on the rim of Islands in the Sky",
+      "location": "Canyonlands National Park"
+    },
+    {
+      "id": 18,
+      "baseCampId": 3,
+      "name": "Double Arch Trail",
+      "description": "The Double Arch Trail is a short loop that takes you to a massive Double O Arch rock formation in the Windows section of Arches National Park. There is an optional scramble at the end of the trail that leads to the base of the arches. Although it is a short hike, the path is sandy. There is also a great view from the trailhead if you do not wish to hike the entire trail. Bikes and dogs are not allowed on this trail.",
+      "location": "Arches National Park"
+    },
+    {
+      "id": 19,
+      "baseCampId": 3,
+      "name": "Park Avenue Trail",
+      "description": "Just 3.6 miles (5.8 km) after Arches National Park Visitor Center, this is many visitors' first scenic stop. At Park Avenue, you can gaze down a grand boulevard of rock and let your imagination loose. Previous visitors named some of the rock features here 'Queen Nefertiti', 'Queen Victoria', and 'Sausage' Rock (also known as 'The Corndog'). This short downhill hike near the Arches National Park Entrance with spectacular views of red rock fins and towers.",
+      "location": "Arches National Park"
+    },
+    {
+      "id": 20,
+      "baseCampId": 4,
+      "name": "Peekaboo and Spooky Slot Canyons via Lower Dry Fork Narrows Trailhead",
+      "description": "There is little to no shade for much of this hike and no water. It is a good idea to bring 4 liters of water per person when attempting this trail in the summer months. Also, be mindful of flash flood danger. Once in the canyons, Peekaboo and Spooky have no escape routes or high ground to retreat to in the event of a flash flood. Know the weather, be prepared, and do not attempt when thunderstorms are in the area.",
+      "location": "Grand Staircase - Escalante National Monument"
+    },
+    {
+      "id": 21,
+      "baseCampId": 4,
+      "name": "Zebra and Tunnel Slots",
+      "description": "Get to know this 6.6-mile loop trail near Escalante, Utah. Generally considered a moderately challenging route, it takes an average of 2 h 22 min to complete. This is a very popular area for hiking and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are March through November. Dogs are welcome, but must be on a leash.",
+      "location": "Grand Staircase - Escalante National Monument"
+    },
+    {
+      "id": 22,
+      "baseCampId": 4,
+      "name": "The Golden Cathedral Trail",
+      "description": "This route takes you to the bottom of Neon Canyon and back. Heads up! Neon Canyon is subject to flash flood danger. The route crosses the open, arid desert in constant sun over a mixture of sandstone and loose sand. The trail itself is not marked for most of the way. You'll be following cairns, and it is a good idea to download your map ahead of time to aid in navigation. ",
+      "location": "Glen Canyon National Recreation Area"
+    },
+    {
+      "id": 23,
+      "baseCampId": 4,
+      "name": "Hurricane Wash to Coyote Gulch",
+      "description": "Spectacular views passing through Grand Staircase-Escalante National Monument and Glen Canyon National Recreation Area along Hurricane Wash and Coyote Gulch to the Escalante River.",
+      "location": "Glen Canyon National Recreation Area"
+    },
+    {
+      "id": 24,
+      "baseCampId": 4,
+      "name": "Devils Garden",
+      "description": "Head out on this 0.4-mile loop trail near Escalante, Utah. Generally considered an easy route, it takes an average of 9 min to complete. This is a very popular area for birding, hiking, and walking, so you'll likely encounter other people while exploring. The best times to visit this trail are April through November. Dogs are welcome, but must be on a leash.",
+      "location": "Grand Staircase - Escalante National Monument"
+    },
+    {
+      "id": 25,
+      "baseCampId": 5,
+      "name": "Kanarra Falls",
+      "description": "This hike takes you to Kanarra Falls through slot canyons, across a few creek crossings. You'll want to be prepared to wade through creeks on your way to the falls.  You'll also scramble down a ladder and over several large boulders. During the winter months, traction gear like micro-spikes are recommended for this hike. Keep your eye on the weather- hiking through the canyon during a rain event can be dangerous since the area can be prone to flash-flooding. ",
+      "location": "Spring Creek Canyon Wilderness Study Area"
+    },
+    {
+      "id": 26,
+      "baseCampId": 5,
+      "name": "Angels Landing Trail",
+      "description": "The Angels Landing Trail is a technical route in Zion National Park with steep drop-offs and very narrow sections. The incredible views of Zion Canyon make this hike the most popular in Zion.",
+      "location": "Zion National Park"
+    },
+    {
+      "id": 27,
+      "baseCampId": 5,
+      "name": "Zion Narrows Bottom Up to Big Springs",
+      "description": "The Narrows is one of the most iconic day hikes in Zion National Park named for being the most narrow spot in Zion Canyon. As you hike through the blue water in the gorge, you will look up at rocky canyon walls a thousand feet tall as you walk through the Virgin River. Water levels can vary from ankle deep to chest high, and as with all slot canyons, caution should be used and the weather forecast should be checked.",
+      "location": "Zion National Park"
+    },
+    {
+      "id": 28,
+      "baseCampId": 5,
+      "name": "The Subway",
+      "description": "This route is also known as The Subway (Bottom Up) route. Heads up! This is a technical canyoneering tour through the left fork of North Creek rated at 3B III. This route requires technical gear and knowledge of canyoneering and rappelling to complete. Make sure to budget extra time for the many technical sections on this route. This area can also be prone to flash floods so be mindful of rain and talk to park rangers before heading out on the trip.",
+      "location": "Zion National Park"
+    },
+    {
+      "id": 29,
+      "baseCampId": 5,
+      "name": "The Watchman Trail",
+      "description": "The Watchman Trail in Zion National Park is an easy and well-maintained trail that is often overlooked by hikers. Many others are going to the neighboring trails and often pass by this hike in Zion. It overlooks the entire Springdale area and is ideal for beginner hikers. ",
+      "location": "Zion National Park"
+    },
+    {
+      "id": 30,
+      "baseCampId": 6,
+      "name": "The Wave Trail",
+      "description": "The Wave is a beautiful geologic feature in an area also knowns as Coyote Buttes North. This popular trail takes you across the Utah-Arizona border to the famous feature known as the Wave. You'll be hiking on the Wire Pass / Wave Trail for most of the route. This route will also take you to several other interesting geologic features. ",
+      "location": "Vermilion Cliffs National Monument"
+    },
+    {
+      "id": 31,
+      "baseCampId": 6,
+      "name": "Red Canyon (aka Peek-a-Boo Canyon)",
+      "description": "This is a thrilling adventure of 4x4 driving on deep sand through a desert landscape of junipers, pinions, yuccas and cacti. Eventually, you'll reach a slender slot canyon that is a gorgeous visual array of warm reds, cool browns and hot oranges in rippled and fluted sandstone.",
+      "location": "Kanab, Utah"
+    },
+    {
+      "id": 32,
+      "baseCampId": 6,
+      "name": "Buckskin Overlook via Wire Pass and Buckskin Gulch Trail",
+      "description": "Wire Pass is a short drainage that joins the Buckskin Gulch slot canyon. This slot canyon adventure takes you through beautiful sections of red rock. Be prepared to get your feet wet and wade through some sections of water.",
+      "location": "Paria Canyon-Vermilion Cliffs Wilderness Area"
+    },
+    {
+      "id": 33,
+      "baseCampId": 6,
+      "name": "Coral Pink Sand Dunes Trail",
+      "description": "Get to know this 0.8-mile out-and-back trail near Kanab, Utah. Generally considered an easy route, it takes an average of 19 min to complete. This is a popular trail for hiking and walking, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are April through November. Dogs are welcome and may be off-leash in some areas.",
+      "location": "Coral Pink Sand Dunes State Park"
+    },
+    {
+      "id": 34,
+      "baseCampId": 6,
+      "name": "Toadstool Hoodoos Trail",
+      "description": "Discover this 1.8-mile out-and-back trail near Kanab, Utah. Generally considered an easy route, it takes an average of 40 min to complete. This is a very popular area for birding, hiking, and running, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+      "location": "Grand Staircase - Escalante National Monument"
+    },
+    {
+      "id": 35,
+      "baseCampId": 7,
+      "name": "Horseshoe Bend Trail",
+      "description": "While the trail is short and easy, this is one of the most popular routes in the Glen Canyon National Recreation area, so visitors should expect the area to be quite busy. The overlook is one of the most beautiful spots to view the Colorado River and Glen Canyon. Spring and fall are the best times to visit for fair weather since summer heat can be intense for tourists. ",
+      "location": "Glen Canyon National Recreation Area"
+    },
+    {
+      "id": 36,
+      "baseCampId": 7,
+      "name": "Lower Antelope Canyon",
+      "description": "Antelope Canyon is the most-visited and most-photographed slot canyon in the American Southwest and for a good reason. The mysterious beauty of Antelope Canyon, one of the few slot canyons in the area, awaits the adventurous traveler who seeks to discover one of the most spectacular attractions of the Lake Powell area.",
+      "location": "Lake Powell Navajo Tribal Park"
+    },
+    {
+      "id": 37,
+      "baseCampId": 7,
+      "name": "Antelope Creek Paddle",
+      "description": "Discover this 11.6-mile out-and-back trail near Page, Arizona. Generally considered a moderately challenging route, it takes an average of 3 h 50 min to complete. This is a popular trail for hiking and paddle sports, but you can still enjoy some solitude during quieter times of day. The trail is open year-round and is beautiful to visit anytime.",
+      "location": "Lake Powell - Page, Arizona"
+    },
+    {
+      "id": 38,
+      "baseCampId": 7,
+      "name": "Upper Antelope Canyon Trail",
+      "description": "Antelope Canyon is the most-visited and most photographed slot canyon in the American Southwest.  It is located on Navajo land near Page, Arizona.",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": 39,
+      "baseCampId": 7,
+      "name": "Paria Canyon from Lees Ferry",
+      "description": "1965 Ranch owner Gus Griffin installed a pump system to control water flow in this spot. However, the pump could only function when the Paria River ran clear, which was rare due to mud clogging up the machinery. Today, a trail into the Paria Canyon Wilderness replaces the road to Kanab, Utah. Scattered ranch buildings decay amidst the spectacular red rock desert, including the irrigation system which can be explored upstream.",
+      "location": "Glen Canyon National Recreation Area"
+    },
+    {
+      "id": 40,
+      "baseCampId": 8,
+      "name": "Wildcat Trail around West and East Mitten Buttes",
+      "description": "This incredibly stunning hike takes visitors past some of Monument Valley's most famous rock buttes. This route is the only hike you can access in the valley without a guide, so it's heavily traveled. The terrain is on a loose, sandy surface; otherwise, this is an easy trail free of obstacles. Begin your walk from the Wildcat Trail sign in the northwest corner of the visitor center parking area. ",
+      "location": "Monument Valley Navajo Tribal Park"
+    },
+    {
+      "id": 41,
+      "baseCampId": 8,
+      "name": "Monument Valley Scenic Drive",
+      "description": "This route takes you through several famous viewpoints in Monument Valley, such as Three Sisters, The Hub, Totem Pole, The Cube, Artists Point, City Butte, The Thumb, and John Ford's Point Overlook. The dirt road is rocky and has slight off-roading features. To ensure your comfort, it's recommended to have a 4WD vehicle with high-clearance.",
+      "location": "Monument Valley Navajo Tribal Park"
+    },
+    {
+      "id": 42,
+      "baseCampId": 9,
+      "name": "Humphreys Peak",
+      "description": "Humphreys Peak stands at 12,633 feet and is the highest point in the Kachina Peaks Wilderness, as well as the state of Arizona. It has one of the most scenic viewpoints in the San Francisco Peaks, and on a clear day, hikers can see the Grand Canyon from the summit.",
+      "location": "Kachina Peaks Wilderness"
+    },
+    {
+      "id": 43,
+      "baseCampId": 9,
+      "name": "Fatmans Loop Trail",
+      "description": "The Fatman's Loop trail is a great hiking route that takes you on a climb over a historical lava flow, offering stunning views of Flagstaff and the surrounding areas. On the way, you'll get to see ancient alligator junipers that lean over the trail, some of which are over 900 years old! As you approach the top of the hill, the trail passes over a 500,000-year-old lava flow that has cooled into interesting boulders and blocks, which are perfect for kids to scramble and explore.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 44,
+      "baseCampId": 9,
+      "name": "Elden Lookout Trail",
+      "description": "This is a challenging hike up Elden Mountain, which offers breathtaking scenic views from a lookout tower at the top. Begin by walking through the beautiful ponderosa pine forest before ascending switchbacks to reach the summit. Along the way, you'll get to enjoy incredible views of the surrounding San Francisco peaks. The trail becomes steeper as you approach the top, but it's worth it once you reach the summit and see the historic fire tower that provides sweeping panoramic views of Flagstaff.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 45,
+      "baseCampId": 9,
+      "name": "Kachina Trail",
+      "description": "This trail winds through a beautiful mixed coniferous forest and features interesting rock formations. There is a considerable amount of elevation gain that can be quite challenging. The trail's highlights are the serene open meadows that offer great views in the distance. Depending on the season, some sections of the trail may be overgrown and hard to follow.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 46,
+      "baseCampId": 9,
+      "name": "Aspen Nature Loop",
+      "description": "This trail offers stunning views of the mountains and is a perfect spot for hiking during the summer when wildflowers bloom along the path. During the winter months, there's plenty of snow as well as a ski run. The trail is easy to follow and not very crowded, especially on weekdays. However, the terrain can be rocky, so it's advisable to wear appropriate footwear.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 47,
+      "baseCampId": 10,
+      "name": "Devil's Bridge Trail via Dry Creek Road",
+      "description": "Devils Bridge is the largest natural sandstone arch located in the Sedona area of Coconino National Forest. It's a great hike that offers breathtaking views of Red Rock country.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 48,
+      "baseCampId": 10,
+      "name": "Cathedral Rock Trail",
+      "description": "The Cathedral Rock hike is a challenging yet beautiful trail in Sedona that offers great views of the unique natural rock formations in the area. Due to its short distance and incredible scenery, this hike is a popular choice for hikers of all ages. If you're ever hiking in Sedona, be sure to add this trail to your list!",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 49,
+      "baseCampId": 10,
+      "name": "Boynton Canyon Trail",
+      "description": "Boynton Canyon is one of the most popular trails close to Sedona. The trail features incredible views of the canyon floor and surrounding desert landscape. This often shady and cooler section of Boynton is a favorite, especially in autumn, as the bright yellow leaves contrast the canyon walls. ",
+      "location": "Red Rock-Secret Mountain Wilderness"
+    },
+    {
+      "id": 50,
+      "baseCampId": 10,
+      "name": "Seven Sacred Pools via Soldier Pass to Brins Mesa Loop",
+      "description": "This hiking trail provides spectacular views and showcases some of the best features of the area. It's important to carry sunscreen and enough water as there is limited shade on the trail. In case the trailhead marked here gets too crowded, consider exploring an alternate starting point. The loop is great to hike in either direction, and you can also take an optional turn-off for the mesa if you want to add some extra distance and elevation.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 51,
+      "baseCampId": 10,
+      "name": "Soldier Pass Trail",
+      "description": "Soldier Pass is a popular hiking destination in Sedona that offers stunning views of natural wonders.",
+      "location": "Coconino National Forest"
+    },
+    {
+      "id": 52,
+      "baseCampId": 11,
+      "name": "Flatiron via Siphon Draw Trail",
+      "description": "Flatiron via Siphon Draw Trail is a challenging day hike in the beautiful Superstition Mountains. The route is full of tricky scrambles and is recommended for seasoned hikers. Make sure to bring plenty of water and wear sturdy shoes. ",
+      "location": "Lost Dutchman State Park"
+    },
+    {
+      "id": 53,
+      "baseCampId": 11,
+      "name": "Hieroglyphic Trail to Petroglyphs",
+      "description": "The Hieroglyphic Trail is an excellent hiking route that takes you through Hieroglyphic Canyon in the Superstition Wilderness. During the spring, the trail is adorned with beautiful wildflowers, and it has a gentle uphill grade. As you make your way towards the boulder-filled canyon, you'll encounter year-round pools of water. The trail eventually leads you to the petroglyphs, which are believed to have been created by the Hohokam people who lived in the area about 1,500 years ago.",
+      "location": "Superstition Wilderness"
+    },
+    {
+      "id": 54,
+      "baseCampId": 11,
+      "name": "Fremont Saddle via Peralta Canyon Trail",
+      "description": "This is one of the most popular trails in Superstition Wilderness, which features an incredible view of Weaver's Needle from the saddle. It is a gentle, continuous, uphill hike with plenty of switchbacks and a few spots where loose rock makes footing slick. Most of the elevation is towards the end; coming down is more challenging than going up.",
+      "location": "Superstition Wilderness"
+    },
+    {
+      "id": 55,
+      "baseCampId": 11,
+      "name": "Wave Cave Trail",
+      "description": "The Wave Cave Trail begins at the Carney Springs trailhead off Peralta Road. Along the trail, you will encounter a lost goldmine, numerous photo opportunities, and breathtaking views of the Superstition Mountains. However, it's essential to bring plenty of water, as the trail can get hot.",
+      "location": "Superstition Wilderness"
+    },
+    {
+      "id": 56,
+      "baseCampId": 11,
+      "name": "Massacre Falls Trail",
+      "description": "This is a stunning desert hike that leads to a waterfall, which is only visible after heavy rainfall or snow. The terrain can be rugged and challenging, so it is recommended to wear sturdy footwear. The trail can be difficult to navigate at times and cell service may be patchy. If you continue onwards to Massacre Ridge, you are able to see distant views of Weavers Needle, Four Peaks, and the Superstitions.",
+      "location": "Tonto National Forest"
+    },
+    {
+      "id": 57,
+      "baseCampId": 12,
+      "name": "Bear Canyon to Seven Falls Trail",
+      "description": "Bear Canyon to Seven Falls Trail is a gradual climb through the scenic Sabino Canyon. The route is lined with Saguaro and Prickly Pear Cactus and is home to an incredible bird population. You will find Broadmoor Seven Falls at the end of this hike after making it through the rocky canyon. Pristine pools are at the base of the falls, and the entire area is a great spot to stop for a picnic or short break.",
+      "location": "Sabino Canyon Recreation Area"
+    },
+    {
+      "id": 58,
+      "baseCampId": 12,
+      "name": "Wasson Peak via Gould Mine, Hugh Norris, and King Canyon Trail",
+      "description": "This trail boasts incredible views, abundant wildlife, and is the highest point in the Tucson Mountains. To begin the hike, head northwest on the street from the parking area until you reach the Gould Mine Trail. Follow this mostly flat trail until it connects with the Hugh Norris Trail heading east. This trail will take you to the top of Wasson Peak, where you can enjoy a 360-degree view of the beautiful desert landscape. To return, follow the King Canyon Trail.",
+      "location": "Saguaro National Park"
+    },
+    {
+      "id": 59,
+      "baseCampId": 12,
+      "name": "King Canyon Trail to Wasson Peak",
+      "description": "This is a stunning trail that winds through the desert and leads up to Wasson Peak, offering breathtaking mountain views. The trail is properly maintained and marked, however, be aware of the side trails that may cause confusion. It's highly recommended to download the offline map to stay on track. There are no facilities available at the trailhead, but the visitor's center is conveniently located just a mile up the road.",
+      "location": "Saguaro National Park"
+    },
+    {
+      "id": 60,
+      "baseCampId": 12,
+      "name": "Bassett Peak Trail #287C",
+      "description": "Try this 11.8-mile out-and-back trail near San Manuel, Arizona. Generally considered a challenging route, it takes an average of 7 h 38 min to complete. This trail is great for backpacking, camping, and hiking, and it's unlikely you'll encounter many other people while exploring.",
+      "location": "Galiuro Wilderness"
+    },
+    {
+      "id": 61,
+      "baseCampId": 12,
+      "name": "Chiva Falls Trail",
+      "description": "This challenging trail is a favorite among both hikers and off-road enthusiasts. You will cross rocky sections, sandy washes, and rugged hillsides in this scenic desert landscape. The highlight of the trail is the magnificent Chiva Falls, a seasonal waterfall that is best viewed after heavy rains. The trail is adorned with saguaro cacti, ocotillo, and other desert flora, adding to the beauty of the surroundings.",
+      "location": "Coronado National Forest"
+    },
+    {
+      "id": 62,
+      "baseCampId": 13,
+      "name": "McCloud Waterfalls Trail",
+      "description": "Swimming or cliff-diving is popular at the Lower, Middle, or Upper Falls and various pools along this trail, although caution is advised. The McCloud River is also used by kayakers who start at the Lower Falls and go to McCloud Reservoir, and dirt roads nearby are used by off-road vehicles.",
+      "location": "Shasta-Trinity National Forest"
+    },
+    {
+      "id": 63,
+      "baseCampId": 13,
+      "name": "Mount Shasta via Clear Creek Route",
+      "description": "Proceed cautiously on this 11.5-mile out-and-back trail near McCloud, California. Generally considered a highly challenging route, it should only be attempted by experienced adventurers. This is a popular trail for backpacking, hiking, and skiing, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are June through September. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Mount Shasta Wilderness"
+    },
+    {
+      "id": 64,
+      "baseCampId": 13,
+      "name": "Kings Creek Falls Trail",
+      "description": "This route takes you through Lower Kings Creek Meadow to the upper cascades of the stunning Kings Creek Falls. You'll get great views of the falls on your way in, but wait until your way out- the views are even better!",
+      "location": "Lassen Volcanic National Park"
+    },
+    {
+      "id": 65,
+      "baseCampId": 14,
+      "name": "James Irvine Trail",
+      "description": "This trail is a longer, scenic route that accesses the mouth of the popular Fern Canyon. You do not need a permit to access Fern Canyon via the James Irvine Trail.",
+      "location": "Prairie Creek Redwoods State Park"
+    },
+    {
+      "id": 66,
+      "baseCampId": 14,
+      "name": "Lost Man Creek Trail",
+      "description": "This trail used to be a logging road. The first mile is very gentle and well shaded and crosses several salmon-friendly bridges. The hike continues and the path remains a wide gravel road mostly covered with needles smooth and easy to walk on. The first 2.5 miles are old growth, so be sure to appreciate the beauty of these old trees.",
+      "location": "Redwood National Park"
+    },
+    {
+      "id": 67,
+      "baseCampId": 14,
+      "name": "Redwood Creek Trail",
+      "description": "A lovely trail along a creek surrounded by redwoods. With a permit, one can camp anywhere along the creek (away from the bridges), the only place in the park where camping is allowed outside a campground",
+      "location": "Redwood National Park"
+    },
+    {
+      "id": 68,
+      "baseCampId": 15,
+      "name": "Mount Tallac Trail",
+      "description": "As one of the most well-known and popular day hikes in the Tahoe area, the ascent up Mount Tallac promises unparalleled views of Lake Tahoe from its summit 9,735 feet above sea level.",
+      "location": "Desolation Wilderness"
+    },
+    {
+      "id": 69,
+      "baseCampId": 15,
+      "name": "Granite Lake and Maggie's Peaks",
+      "description": "Maggies Peaks have amazing vantage points to view Emerald Bay, Lake Tahoe, Granite Lake, and Desolation Wilderness. The two main peaks sit at an elevation of around 8,500ft. ",
+      "location": "Desolation Wilderness"
+    },
+    {
+      "id": 70,
+      "baseCampId": 15,
+      "name": "Woods, Winnemucca, and Round Top Lakes",
+      "description": "This loop can be hiked in either direction. Clockwise is recommended for a more gradual ascent, prettier views, and a steeper descent at the end. Counterclockwise is recommended if you are looking to get most of the climbing out of the way in the beginning and end with a more gradual descent. This trail features three beautiful alpine lakes, forest settings, and sub-alpine environments.",
+      "location": "Mokelumne Wilderness"
+    },
+    {
+      "id": 71,
+      "baseCampId": 16,
+      "name": "Coast Trail to Bass Lake",
+      "description": "Hike along the stunningly beautiful Coastal Trail and cool your feet in Bass Lake. There are beautiful views along the way, including forests carpeted with eucalyptus leaves, cliffside ocean views, streams, and a lovely lake. The last 1.2 miles of the road approaching the parking lot is rough gravel and washboard.",
+      "location": "Point Reyes National Seashore"
+    },
+    {
+      "id": 72,
+      "baseCampId": 16,
+      "name": "Sky Trail and Bear Valley Loop",
+      "description": "A very rewarding loop option that starts from Bear Valley Visitor Center. Experience breathtaking vistas along the way. The first stretch is mostly wooded and detours up to Mount Wittenberg. The views will come as you get closer to the Coast Trail.",
+      "location": "Point Reyes National Seashore"
+    },
+    {
+      "id": 73,
+      "baseCampId": 16,
+      "name": "Fern Creek, Lost, and Canopy Trail Loop",
+      "description": "Starting at the visitors center, take the boardwalk into Muir Woods to where the Fern Creek Trail splits off. Follow that until you get to the Lost Trail and take a right. When you intersect the Ocean View Trail take a right and it will take you right back to Muir Woods.",
+      "location": "Muir Woods National Monument"
+    },
+    {
+      "id": 74,
+      "baseCampId": 17,
+      "name": "El Capitan from Tamarack Creek",
+      "description": "This route begins from Tioga Road at the Tamarack Creek Trailhead. You will travel through dense forests and over small creeks to reach the summit of El Capitan. Once at the summit, there are expansive views of Yosemite Valley below and Yosemite's high country.",
+      "location": "Yosemite National Park"
+    },
+    {
+      "id": 75,
+      "baseCampId": 17,
+      "name": "Upper Yosemite Falls Trail",
+      "description": "Enjoy the incredible views looking down from the top of Yosemite Falls, the tallest waterfall in the continental US. Yosemite Falls, dropping 2,425 feet to the bottom of the valley from the top, is one of the most visited places in Yosemite National Park.",
+      "location": "Yosemite National Park"
+    },
+    {
+      "id": 76,
+      "baseCampId": 17,
+      "name": "Yosemite Grand Tour",
+      "description": "This trail leaves from Curry Village, which is a great place to park a car or grab snacks before your hike. Follow the bike path/Valley Loop Trail until you reach the Four Mile Trail. The Four Mile Trail is a steep climb from the valley floor to Glacier Point. Once you reach Glacier Point, you are awarded with breathtaking views of Yosemite Valley below and the surrounding granite domes and peaks. Continue on towards Illilouette Falls and Panorama Point before reaching Nevada Falls. Follow the Mist Trail past Vernal Falls and back down to Happy Isles and Curry Village.",
+      "location": "Yosemite National Park"
+    },
+    {
+      "id": 77,
+      "baseCampId": 18,
+      "name": "Junipero Serra Peak",
+      "description": "Junipero Serra Peak is the highest peak in the Santa Lucia Mountains and is just to the East of Big Sur in Monterrey County.  ",
+      "location": "Los Padres National Forest"
+    },
+    {
+      "id": 78,
+      "baseCampId": 18,
+      "name": "Islay Creek Trail",
+      "description": "Get to know this 11.4-mile out-and-back trail near Los Osos, California. Generally considered a challenging route, it takes an average of 4 h 51 min to complete. This is a popular trail for birding, hiking, and running, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are March through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Montana De Oro State Park"
+    },
+    {
+      "id": 79,
+      "baseCampId": 18,
+      "name": "Pismo Dunes",
+      "description": "Explore this 2.4-mile out-and-back trail near Oceano, California. Generally considered an easy route, it takes an average of 43 min to complete. This is a popular trail for birding, hiking, and horseback riding, but you can still enjoy some solitude during quieter times of day. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+      "location": "Pismo State Beach"
+    },
+    {
+      "id": 80,
+      "baseCampId": 19,
+      "name": "Hidden Valley",
+      "description": "Sample the best of Joshua Tree National Park on this nature trail loop in the heart of the park. If you only have the chance for one short hike at Joshua Tree National Park, Hidden Valley is a great choice. It is located just off of Park Boulevard.",
+      "location": "Joshua Tree National Park"
+    },
+    {
+      "id": 81,
+      "baseCampId": 19,
+      "name": "Quail Mountain Trail",
+      "description": "Quail Mountain is the tallest peak in Joshua Tree National Park, and in the Little San Bernadino Mountain range. The hike to the peak is challenging, mostly due to the fact that there are no developed trails to the top of the peak.",
+      "location": "Joshua Tree National Park"
+    },
+    {
+      "id": 82,
+      "baseCampId": 19,
+      "name": "San Jacinto Peak from The Tramway",
+      "description": "This trailhead is accessed via the Palm Springs Aerial Tramway, which has a fee per person. Hikers suggest that it is best to make reservations online to avoid waiting at the tram. This tram is one of the worlds steepest with the largest rotating tramcars that leads up to California's second-highest peaks.",
+      "location": "Mount San Jacinto State Park"
+    },
+    {
+      "id": 83,
+      "baseCampId": 20,
+      "name": "Torrey Pines Beach Trail Loop",
+      "description": "Hikers can hike this loop in either direction. Hiking clockwise takes you along the interior first with views of the ocean, then along the water. Counterclockwise takes you along the shore first then travels away from the beach. There are a few short but steep climbs along the way. The trails are well-marked and easy to follow.",
+      "location": "Torrey Pines State Natural Reserve"
+    },
+    {
+      "id": 84,
+      "baseCampId": 20,
+      "name": "Corte Madera Mountain Trail",
+      "description": "The trail is great for hiking and normally takes a half day. Start off along an oak-lined road and then take a left and head out through typical San Diego shrubbery. When you reach the main saddle you'll be rewarded with a spectacular view of Corte Madera Mountain, which some call San Diego's half dome. ",
+      "location": "Cleveland National Forest"
+    },
+    {
+      "id": 85,
+      "baseCampId": 20,
+      "name": "Big Laguna Mountain Loop Trail",
+      "description": "Arrive early because there is limited parking. The PCT portion is directly in the sun, very rocky, and is often slightly overgrown by the late spring/early summer so it is suggested to get this part out of the way before it gets too hot. At Foster Point, there is a monument to help you identify the surrounding landmarks",
+      "location": "Cleveland National Forest"
+    },
+    {
+      "id": 86,
+      "baseCampId": 91,
+      "name": "Round Knob to Howards Rock (Firescald Ridge)",
+      "description": "Head out on this 7.1-mile out-and-back trail near Greeneville, Tennessee. Generally considered a moderately challenging route. This is a popular trail for backpacking, birding, and camping, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are April through December.",
+      "location": "Cherokee National Forest"
+    },
+    {
+      "id": 87,
+      "baseCampId": 91,
+      "name": "Laurel River Trail",
+      "description": "This is a very nice hike along the Big Laurel River. The trail is flat and tree-covered. There are quite a few rapids and trout pools along most of the route. There are also some excellent camping spots and swimming holes along the way",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 88,
+      "baseCampId": 91,
+      "name": "Appalachian Trail: Sams Gap to Big Bald",
+      "description": "This section of the Appalachian Trail is absolutely stunning, and it offers plenty of shade and beautiful views from the balds. The trail is well-marked and easy to follow, but keep in mind that the last half-mile of the hike leading up to the view can be quite difficult and uphill. It can be fairly windy at the top of Big Bald, so bring layers to stay warm.",
+      "location": "Cherokee National Forest"
+    },
+    {
+      "id": 89,
+      "baseCampId": 92,
+      "name": "Calloway Peak via Profile Trail",
+      "description": "This trail begins at the Profile Trail parking area and ends at the Grandfather Trail at Calloway Gap. The route begins as a scenic, rolling pathway through seasonal wildflowers in the spring, and crosses the Watauga River under a hardwood canopy. ",
+      "location": "Grandfather Mountain State Park"
+    },
+    {
+      "id": 90,
+      "baseCampId": 92,
+      "name": "Linville Peak via Profile Trail",
+      "description": "Experience this 10.6-mile out-and-back trail near Banner Elk, North Carolina. Generally considered a challenging route, it takes an average of 6 h 10 min to complete. This is a popular trail for backpacking, camping, and hiking, but you can still enjoy some solitude during quieter times of day.",
+      "location": "Grandfather Mountain State Park"
+    },
+    {
+      "id": 91,
+      "baseCampId": 92,
+      "name": "Rocky Knob Park Loop",
+      "description": "While this trail is open for multi-use, it is mainly popular among mountain bikers in the region. It is not advisable to go hiking on this trail as it involves a lot of downhill riding. During your ride, you will encounter several features such as long climbs, jumps, rocks, and flow trails. The trail is well-kept and appropriately marked.",
+      "location": "Rocky Knob Mountain Park"
+    },
+    {
+      "id": 92,
+      "baseCampId": 93,
+      "name": "Four Falls and The Covered Bridge",
+      "description": "This great loop starts at Hooker Falls parking lot and takes the trail down to Hooker Falls. Next, you'll head on towards bigger falls (Triple falls, High Falls, Bridal Veil). The route is a mix of gravel road, wide open trails, and a bit of single-track on Pitch Pine trail. You'll turn around at Bridal Veil.",
+      "location": "DuPont State Recreational Forest"
+    },
+    {
+      "id": 93,
+      "baseCampId": 93,
+      "name": "John Rock Trail Loop",
+      "description": "Begin this incredible scenic route at the Fish Hatchery parking area by the Pisgah Center for Wildlife Education. The Cat Gap Loop Trail (#120) wanders next to the Davidson River until it crosses over and connects with the John Rock Trail ($365)",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 94,
+      "baseCampId": 93,
+      "name": "Daniel Ridge Loop",
+      "description": "This pleasant route begins on Lanning Ridge Road and leads to the beautiful Toms Springs Falls before connecting with the Daniel Ridge Loop. Enjoy the majestic forest views and abundance of wildlife along the way. This trail is intended for multi-use and shares the path with both hikers and mountain bikers. ",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 95,
+      "baseCampId": 94,
+      "name": "Charlies Bunion via Appalachian Trail",
+      "description": "Charlies Bunion via Appalachian Trail is a great day hike along the summit Great Smoky Mountains. The route traverses multiple peaks including Mount Ambler, Mount Kephart, Masa Knob and terminates at Charlie’s Bunion.",
+      "location": "Great Smoky Mountains National Park"
+    },
+    {
+      "id": 96,
+      "baseCampId": 94,
+      "name": "Deep Creek Loop Trail",
+      "description": "This loop travels along a scenic creek with several cascades and a waterfall.",
+      "location": "Great Smoky Mountains National Park"
+    },
+    {
+      "id": 97,
+      "baseCampId": 94,
+      "name": "Thomas Divide, Newton Bald and Mingus Creek Trail",
+      "description": "From Thomas Divide trailhead the trail heads up to a ridgeline and gains elevation until about the Newton Bald trailhead where it begins to lose elevation.",
+      "location": "Great Smoky Mountains National Park"
+    },
+    {
+      "id": 98,
+      "baseCampId": 95,
+      "name": "Little Bradley Falls Trail",
+      "description": "This hike takes you through a shaded forest next to a picturesque stream, featuring old ruins and a stunning 50 ft waterfall. There are several creek crossings along the way, so bring water shoes or be ready to take off your regular shoes.",
+      "location": "Green River Gameland"
+    },
+    {
+      "id": 99,
+      "baseCampId": 95,
+      "name": "Green River Narrows",
+      "description": "This trail starts on the Pulliam Creek Trail off of SR 1802. After half a mile, you'll notice wooden boards leading down to a waterfall on the left. There's also a nice camping area on the right approximately three-quarters of a mile down the trail. Continue south on this trail until you reach an intersection. The Pulliam Trail continues south and east and veers left. Veer right down a steep and slippery trail to the foot of the Green River Narrows. The trail is marked by pink ribbons.",
+      "location": "Green River Gameland"
+    },
+    {
+      "id": 100,
+      "baseCampId": 95,
+      "name": "Chestnut Ridge Heritage Preserve Trail",
+      "description": "This trail weaves upward through the Chestnut Ridge Heritage Preserve eventually reaching the South Pacolet River.",
+      "location": "Chesnut Ridge Heritage Preserve"
+    },
+    {
+      "id": 101,
+      "baseCampId": 96,
+      "name": "The Pinnacle via Ridgeline Trail and Boulders Access",
+      "description": "Discover this 11.3-mile out-and-back trail near Kings Mountain, North Carolina. Generally considered a challenging route, it takes an average of 5 h 22 min to complete. This is a popular trail for hiking and running, but you can still enjoy some solitude during quieter times of day. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash.",
+      "location": "Crowders Mountain State Park"
+    },
+    {
+      "id": 102,
+      "baseCampId": 96,
+      "name": "Crowders Trail to Rocktop Trail Loop",
+      "description": "Take a hike to the summit of Crowders Mountain and you will be rewarded with breathtaking views of the surrounding landscape. This is an ideal spot for birdwatching or taking some beautiful photos of the wildflowers in bloom. Although the summit is not very high, it offers spectacular panoramic views, including a glimpse of the Charlotte skyline on the horizon. ",
+      "location": "Crowders Mountain State Park"
+    },
+    {
+      "id": 103,
+      "baseCampId": 96,
+      "name": "Rocktop and Backside Loop",
+      "description": "The Rocktop Trail is a less-traveled path that offers excellent views. Although it has a lower elevation than the Crowders summit, it provides excellent views of the cliffs and surrounding countryside. The trail presents a challenging workout with rocky terrain and uphill sections. It is an ideal choice for bird-watching, with hawks frequently spotted. While the loop section of the trail can be crowded, there are secluded spots to explore by climbing around the rocks.",
+      "location": "Crowders Mountain State Park"
+    },
+    {
+      "id": 104,
+      "baseCampId": 97,
+      "name": "Company Mill Trail to Reedy Creek Trail Loop",
+      "description": "Try this 6.0-mile loop trail near Raleigh, North Carolina. Generally considered a moderately challenging route, it takes an average of 2 h 21 min to complete. This is a very popular area for hiking and walking, so you'll likely encounter other people while exploring.",
+      "location": "William B. Umstead State Park"
+    },
+    {
+      "id": 105,
+      "baseCampId": 97,
+      "name": "Sycamore Trail",
+      "description": "Although there are no breathtaking scenic views or towering mountains, the trail is a pleasant walk through the woods. Located right next to Raleigh, the park offers a perfect escape from the city's hustle-bustle.",
+      "location": "William B. Umstead State Park"
+    },
+    {
+      "id": 106,
+      "baseCampId": 97,
+      "name": "Campbell Creek and Lanier Falls Loop Trail",
+      "description": "Raven Rock State Park is off of Hwy 421 between Sanford and Lillington, NC.  The park is best known for its namesake rock - Raven Rock. The Campbell Creek/Lanier Falls Trails are about 5 1/2 miles when combined and can be completed in 2-4 hours.",
+      "location": "Raven Rock State Park"
+    },
+    {
+      "id": 107,
+      "baseCampId": 98,
+      "name": "Bald Head Island Forest Preserve Loop Trail",
+      "description": "Enjoy this 3.0-mile loop trail near Southport, North Carolina. Generally considered an easy route. This trail is great for hiking, running, and walking, and it's unlikely you'll encounter many other people while exploring. The trail is open year-round and is beautiful to visit anytime. Dogs are welcome, but must be on a leash",
+      "location": "Bald Head Island Forest Preserve"
+    },
+    {
+      "id": 108,
+      "baseCampId": 98,
+      "name": "Weetock Trail",
+      "description": "The trail begins just off the highway, with no specific parking area, only a small pulloff. The first part of the trail is easy to follow and well-marked. However, once you get past Haywood Landing, the trail becomes less traveled. The markers become less frequent, and the path is less defined. Additionally, you will have to navigate undermaintained wooden bridges. Once you reach the next road, pay close attention to the map. ",
+      "location": "Croatan National Forest"
+    },
+    {
+      "id": 109,
+      "baseCampId": 98,
+      "name": "Oak Island Beach Walk",
+      "description": "This is a lightly trafficked walk along the beautiful beach from the lighthouse towards the pier. The majority of this beach walk is exposed and bringing sun protection is advised.",
+      "location": "Oak Island, North Carolina"
+    },
+    {
+      "id": 110,
+      "baseCampId": 99,
+      "name": "Lower China Creek",
+      "description": "This is an unmaintained route that travels along a forest road as well as a primitive single-track trail. The China Creek Trail is not traveled often so it is a bit overgrown in parts, especially during the summer months. There is no cell phone service in the area, and it is suggested to download the offline map ahead of time. There are some unauthorized ropes anchored to get down to the falls- please use at your own discretion. The first part of the trail is gorgeous and between the river and forest views, you can't beat this hike. Make sure to take a dip in the falls when the weather is warm!",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 111,
+      "baseCampId": 99,
+      "name": "China Creek Trail to Thunderhole Falls",
+      "description": "This trail is great for waterfall lovers, as there are many scattered throughout the way on China Creek Trail. The main attraction is Thunderhole Falls. This is a challenging trail that is not frequented much by others. It is steep going down and steep going back up. Beautiful mature trees line the way and once you arrive at the gap, the stream is spectacular.",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 112,
+      "baseCampId": 99,
+      "name": "Buckeye Loop Trail",
+      "description": "This is an unmaintained route that has no signs and can be challenging to navigate at certain points. The trail mostly follows old service roads which can be overgrown. There are several horse camps and campgrounds that you will pass along the route. There are no mountain views on this trail, but there is an abundance of wildlife to observe.",
+      "location": "Pisgah National Forest"
+    },
+    {
+      "id": 113,
+      "baseCampId": 59,
+      "name": "Pemetic North and South Ridge Trails",
+      "description": "The hike begins at Bubble Pond and traverses the ridge of Pemetic Mountain before reaching Jordan Pond.",
+      "location": "Acadia National Park"
+    },
+    {
+      "id": 114,
+      "baseCampId": 59,
+      "name": "Triad and Pemetic East Cliff Trails",
+      "description": "Users will climb the south ridge of The Triad up to the summit of Pemetic Mountain via the Pemetic East Cliffs and Pemetic South Ridge Trails.",
+      "location": "Acadia National Park"
+    },
+    {
+      "id": 115,
+      "baseCampId": 59,
+      "name": "Hadlock Ponds, Parkman Mountain and Maple Spring Trail",
+      "description": "This hike begins with a nice walk along the shore of Hadlock Pond before climbing up Parkman Mountain. Enjoy the views from the summit of Parkman Mountain and Gilmore Peak before the steep descent down the Maple Spring Trail.",
+      "location": "Acadia National Park"
+    },
+    {
+      "id": 116,
+      "baseCampId": 60,
+      "name": "Russell Pond to South Branch Pond Campground via Pogy Notch Trail",
+      "description": "Discover this 8.7-mile point-to-point trail near Mount Chase, Maine. Generally considered a moderately challenging route, it takes an average of 3 h 11 min to complete. This trail is great for backpacking, camping, and hiking, and it's unlikely you'll encounter many other people while exploring. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Baxter State Park"
+    },
+    {
+      "id": 117,
+      "baseCampId": 60,
+      "name": "Mount Katahdin via Hunt Trail",
+      "description": "The Hunt Trail begins in the forest and then begins a very rocky climb up to the summit of Mount Katahdin.",
+      "location": "Baxter State Park"
+    },
+    {
+      "id": 118,
+      "baseCampId": 60,
+      "name": "Chimney Pond Trail",
+      "description": "Check out this 6.3-mile out-and-back trail near Millinocket, Maine. Generally considered a moderately challenging route, it takes an average of 3 h 21 min to complete. This is a very popular area for backpacking, camping, and hiking, so you'll likely encounter other people while exploring. The best times to visit this trail are May through October. You'll need to leave pups at home — dogs aren't allowed on this trail.",
+      "location": "Baxter State Park"
+    },
+    {
+      "id": 119,
+      "baseCampId": 61,
+      "name": "Old Speck Mountain Trail",
+      "description": "Just east of the New Hampshire border, this is Maine's 4th highest mountain and 5th highest peak. It's the highest and most northeastern peak in the Mahoosuc Range of the White Mountains.",
+      "location": "Grafton Notch State Park"
+    },
+    {
+      "id": 120,
+      "baseCampId": 61,
+      "name": "Haystack Notch Trail",
+      "description": "From route 113, this trail passes into the Speckled Mountain Wilderness and the base of Caribou Mountain, Haystack Mountain, and along the west branch of Pleasant River.",
+      "location": "White Mountain National Forest"
+    },
+    {
+      "id": 121,
+      "baseCampId": 61,
+      "name": "Baldface Circle Trail",
+      "description": "This is a loop hike with several fun stream crossings and a lot of views at the top of both peaks and along the ridge.  As their name implies, both peaks have bald summits and in some steep places you may find yourself on fun scrambles.  There will be fantastic views on clear days towards the taller White Mountains including Mt. Washington which dominates the horizon.",
+      "location": "White Mountain National Forest"
+    },
+    {
+      "id": 122,
+      "baseCampId": 62,
+      "name": "Tumbledown Mountain Trail",
+      "description": "This trail is not recommended for dogs due to the presence of a ladder and multiple sections that may require you to lift your dog. Loop trail is a bit strenuous and much more technical (Hiking over large rocks and climbing up through cavernous boulders). ",
+      "location": "Tumbledown Public Lands"
+    },
+    {
+      "id": 123,
+      "baseCampId": 62,
+      "name": "Cranberry Peak via Currie Road",
+      "description": "At just short of 3,000 feet, Cranberry Peak still has a rocky and exposed summit with views of the Bigelow Range ridge line, and the numerous surrounding mountains and lakes.",
+      "location": "Bigelow Preserve"
+    },
+    {
+      "id": 124,
+      "baseCampId": 62,
+      "name": "Saddleback Mountain and The Horn from Ski Lodge",
+      "description": "The start is from the base of the ski slope and is steep in spots, but the views from Saddleback to The Horn are incredible. Hiking up the ski slopes is not permitted during the ski season.",
+      "location": "Saddleback Mountain"
+    },
+    {
+      "id": 125,
+      "baseCampId": 63,
+      "name": "Ocean Lookout via Nature Trail Loop",
+      "description": "Begin from the trailhead off Mount Battie Road and start on the Nature Trail. The trail is named after all of the native plants that can be spotted along the trail. The route then meets up with the Tablelands Trail leading to the Ocean Lookout and then descending the Megunticook Trail. ",
+      "location": "Camden Hills State Park"
+    },
+    {
+      "id": 126,
+      "baseCampId": 63,
+      "name": "Barred Island Preserve Trail",
+      "description": "This trail leads through a spruce forest filled with moss covered rocks leading to a small rocky and sandy beach.",
+      "location": "Barred Island Preserve"
+    },
+    {
+      "id": 127,
+      "baseCampId": 63,
+      "name": "Western Head via Goat Trail",
+      "description": "This trail leading to Western Head does a great job highlighting the rugged coast of Acadia National Park. Isle Au Haut is true gem of Acadia, this is a place visitors to the park will experience true solitude and peace.",
+      "location": "Acadia National Park"
+    },
+    {
+      "id": 128,
+      "baseCampId": 64,
+      "name": "Borestone Mountain Trail",
+      "description": "Very well maintained trail. The first half is a wooded trail with a moderate incline. The top has some somewhat challenging climbing above the tree line. Absolutely fabulous views on top.",
+      "location": "Borestone Mountain Audubon Sanctuary"
+    },
+    {
+      "id": 129,
+      "baseCampId": 64,
+      "name": "Gulf Hagas Rim Trail and Pleasant River Tote",
+      "description": "Gulf Hagas is known as the Grand Canyon of Maine and this loop has great views of the rocky gorge. Begin on the Appalachian Trail and then follow the Pleasant River Tote Road. Take the Rim Trail past Stair Falls, Billings Falls, Buttermilk Falls, and Screw Auger Falls. There are also several other overlooks looking over the Pleasant River.",
+      "location": "Appalachian Mountain Club 100 Mile Wilderness Conservation Area"
+    },
+    {
+      "id": 130,
+      "baseCampId": 64,
+      "name": "Little Wilson Falls",
+      "description": "Follow a blue blaze trail along Little Wilson Stream to the unique waterfall. The road can be muddy, so there is a waypoint included with parking instructions if the road is in bad condition.",
+      "location": "Appalachian Mountain Club 100 Mile Wilderness Conservation Area"
+    },
+    {
+      "id": 131,
+      "baseCampId": 65,
+      "name": "Mackworth Island Hiking Trail",
+      "description": "As you walk the trail you will see many beautiful views of Portland and the nearby islands in Casco Bay. There are at least 6 access trails leading down to the rocky beaches. The island is considered a bird sanctuary.",
+      "location": "Mackworth Island State Park"
+    },
+    {
+      "id": 132,
+      "baseCampId": 65,
+      "name": "Eastern Trail: Scarborough to Saco",
+      "description": "Try this 9.3-mile point-to-point trail near Scarborough, Maine. Generally considered an easy route, it takes an average of 2 h 48 min to complete. This is a popular trail for birding, cross-country skiing, and fishing, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are March through October. Dogs are welcome, but must be on a leash.",
+      "location": "Scarborough Marsh Wildlife Management Area"
+    },
+    {
+      "id": 133,
+      "baseCampId": 65,
+      "name": "Malaga Island Preserve Trail",
+      "description": "Accessible by boat only.  Beautiful island public preserve protected by the Maine Coast Heritage Trust. Malaga Island is an important Maine historical site, with a kiosk and markers that provide information about the community that once lived on the island. The one mile loop nature trail winds through a variety of habitats, including a few small salt marshes, woods, and rocky coast.",
+      "location": "Sebasco Estates, Maine"
     }
   ],
   "trips": [
-    {
-      "id": 1,
-      "userId": 1,
-      "name": "Data-Trip",
-      "startDate": "2024-01-28T06:00:00.000Z",
-      "endDate": "2024-02-24T06:00:00.000Z"
-    },
     {
       "userId": 2,
       "name": "Camp first gamble Later",
@@ -1249,23 +2103,23 @@
       "startDate": "2024-04-01T05:00:00.000Z",
       "endDate": "2024-04-13T05:00:00.000Z",
       "id": 12
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "name": "Utah Mountain Trip",
+      "startDate": "2024-05-19T05:00:00.000Z",
+      "endDate": "2024-05-25T05:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "name": "Canyoneering ",
+      "startDate": "2024-09-01T05:00:00.000Z",
+      "endDate": "2024-09-14T05:00:00.000Z"
     }
   ],
   "tripBaseCamps": [
-    {
-      "tripId": 1,
-      "baseCampId": 1,
-      "startDate": "2024-01-31",
-      "endDate": "2024-02-05",
-      "id": 1
-    },
-    {
-      "id": 4,
-      "tripId": 1,
-      "baseCampId": 12,
-      "startDate": "2024-02-04T06:00:00.000Z",
-      "endDate": "2024-02-06T06:00:00.000Z"
-    },
     {
       "tripId": 5,
       "baseCampId": 4,
@@ -1379,33 +2233,45 @@
       "id": 25
     },
     {
-      "tripId": 1,
-      "baseCampId": 7,
-      "startDate": "2024-02-10T06:00:00.000Z",
-      "endDate": "2024-02-12T06:00:00.000Z",
-      "id": 26
+      "tripId": 13,
+      "baseCampId": 2,
+      "startDate": "2024-05-19T05:00:00.000Z",
+      "endDate": "2024-05-21T05:00:00.000Z",
+      "id": 27
+    },
+    {
+      "id": 28,
+      "tripId": 13,
+      "baseCampId": 1,
+      "startDate": "2024-05-23T05:00:00.000Z",
+      "endDate": "2024-05-25T05:00:00.000Z"
     }
   ],
   "tripHikes": [
     {
-      "tripBaseCampId": 1,
-      "hikeId": 6,
-      "id": 1
+      "tripBaseCampId": 28,
+      "hikeId": 1,
+      "id": 5
     },
     {
-      "tripBaseCampId": 1,
+      "tripBaseCampId": 28,
       "hikeId": 5,
-      "id": 2
+      "id": 7
     },
     {
-      "tripBaseCampId": 1,
+      "tripBaseCampId": 27,
+      "hikeId": 13,
+      "id": 20
+    },
+    {
+      "tripBaseCampId": 28,
       "hikeId": 4,
-      "id": 3
+      "id": 21
     },
     {
-      "tripBaseCampId": 1,
-      "hikeId": 3,
-      "id": 4
+      "tripBaseCampId": 28,
+      "hikeId": 6,
+      "id": 29
     }
   ]
 }
