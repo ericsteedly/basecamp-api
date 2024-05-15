@@ -2117,6 +2117,13 @@
       "name": "Canyoneering ",
       "startDate": "2024-09-01T05:00:00.000Z",
       "endDate": "2024-09-14T05:00:00.000Z"
+    },
+    {
+      "userId": 1,
+      "name": "Eric's Trip",
+      "startDate": "2024-05-19T05:00:00.000Z",
+      "endDate": "2024-05-25T05:00:00.000Z",
+      "id": 16
     }
   ],
   "tripBaseCamps": [
@@ -2245,6 +2252,13 @@
       "baseCampId": 1,
       "startDate": "2024-05-23T05:00:00.000Z",
       "endDate": "2024-05-25T05:00:00.000Z"
+    },
+    {
+      "tripId": 16,
+      "baseCampId": 9,
+      "startDate": "2024-05-19T05:00:00.000Z",
+      "endDate": "2024-05-21T05:00:00.000Z",
+      "id": 29
     }
   ],
   "tripHikes": [
@@ -2272,6 +2286,21 @@
       "tripBaseCampId": 28,
       "hikeId": 6,
       "id": 29
+    },
+    {
+      "tripBaseCampId": 29,
+      "hikeId": 42,
+      "id": 30
+    },
+    {
+      "tripBaseCampId": 29,
+      "hikeId": 43,
+      "id": 31
+    },
+    {
+      "tripBaseCampId": 29,
+      "hikeId": 45,
+      "id": 32
     }
   ]
 }
